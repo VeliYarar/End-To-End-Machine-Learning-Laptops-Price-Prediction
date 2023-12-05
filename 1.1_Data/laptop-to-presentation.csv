@@ -1,0 +1,1777 @@
+marka,Isletim_Sistemi,Islemci_Tipi,Islemci_Nesli,Cozunurluk,SSD_Kapasitesi,Ram,Hard_Disk_Kapasitesi,Ekran_Yenileme_Hizi,Ekran_Karti,Ekran_Boyutu,Fiyat
+lenovo,Free Dos,Intel Celeron,4.0,1366 x 768,0.0,4.0,0.0,60.0,Dahili Ekran Kartı,15.6,6.799
+monster,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,22.9733
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,13.099
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,24.75
+acer,Linux,Intel Celeron,2.0,1920 x 1080,128.0,4.0,0.0,60.0,Intel UHD Graphics,15.6,6.29
+acer,Free Dos,AMD Ryzen 3,7.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,8.999
+lenovo,Free Dos,AMD Athlon,7.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,8.199
+msi,Windows,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,31.6799
+huawei,Windows,Intel Core i5,11.0,1920 x 1080,256.0,8.0,256.0,60.0,Intel Iris Graphics,15.6,14.38
+casper,Windows,Intel Celeron,13.0,1366 x 768,120.0,4.0,0.0,60.0,Intel UHD Graphics 600,15.6,6.939
+hp,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,12.899
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,165.0,Nvidia GeForce RTX 3050,15.6,26.5311
+acer,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,10.799
+lenovo,Free Dos,AMD Ryzen 3,7.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Vega 3,15.6,9.994
+lenovo,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,10.499
+acer,Windows,AMD Ryzen 5,7.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,12.6421
+asus,Windows,Intel Core i3,13.0,1920 x 1080,256.0,4.0,256.0,60.0,Intel UHD Graphics,15.6,9.249
+huawei,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,20.899
+msi,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,21.995
+acer,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,12.2751
+acer,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,15.6,22.908
+huawei,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,14.0,15.42
+lenovo,Free Dos,Intel Core i3,13.0,1920 x 1080,256.0,8.0,256.0,60.0,Dahili Ekran Kartı,15.6,9.496
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,27.6192
+apple,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,28.599
+lenovo,Windows,Intel Celeron,13.0,1366 x 768,0.0,4.0,128.0,60.0,Intel UHD Graphics 600,15.6,6.8801
+acer,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,23.499
+asus,Free Dos,Intel Core i5,10.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce GTX 1650,15.6,24.7346
+hp,Free Dos,AMD Ryzen 5,6.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,16.1,25.6263
+msi,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,21.999
+lenovo,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,0.0,60.0,M1 7 Çekirdekli,15.6,10.45
+acer,Windows,AMD Ryzen 5,7.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,12.7656
+apple,Mac Os,Apple M2,1.0,2560 x 1600,256.0,8.0,250.0,120.0,M2 8 Çekirdekli,13.6,35.999
+asus,Windows,Intel Celeron,9.0,1920 x 1080,128.0,4.0,0.0,60.0,Intel UHD Graphics,14.0,6.839
+monster,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,31.499
+msi,Windows,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,34.6346
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,32.0,0.0,60.0,Dahili Ekran Kartı,15.6,16.799
+acer,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,25.999
+lenovo,Free Dos,AMD Ryzen 3,7.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,9.1999
+asus,Windows,Intel Core i5,10.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce GTX 1650,15.6,29.1996
+hp,Free Dos,Intel Core i5,13.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,16.1,33.359
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,14.599
+monster,Free Dos,Intel Core i7,13.0,1920 x 1080,500.0,16.0,256.0,60.0,Nvidia GeForce RTX 3050 Ti,17.3,27.899
+msi,Windows,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,36.0206
+monster,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,34.799
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,512.0,16.0,0.0,144.0,AMD Radeon RX6500M,15.6,22.299
+asus,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,30.999
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,120.0,Nvidia GeForce GTX1650 Ti,15.6,25.1442
+lenovo,Windows,Intel Celeron,10.0,1920 x 1080,128.0,4.0,0.0,60.0,Dahili Ekran Kartı,15.6,6.692
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,18.672
+hp,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4070,16.1,43.388
+acer,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel XE Graphics,15.6,14.2069
+huawei,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,26.749
+monster,Windows,Intel Core i9,13.0,2560 x 1600,4.0,64.0,0.0,240.0,Nvidia GeForce RTX 4090,17.0,134.999
+hp,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,12.69
+asus,Windows,Intel Core i5,10.0,1920 x 1080,512.0,32.0,0.0,144.0,Nvidia GeForce GTX 1650,15.6,27.3086
+acer,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,11.685
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,13.999
+apple,Mac Os,Apple M2,1.0,2560 x 1600,256.0,8.0,250.0,120.0,M2 8 Çekirdekli,13.6,35.999
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce GTX 1650,15.6,25.4758
+lenovo,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,11.199
+lenovo,Windows,Intel Core i5,12.0,1920 x 1080,1.0,16.0,1.0,60.0,Intel UHD Graphics,15.6,17.992
+hp,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,26.999
+asus,Windows,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,29.6846
+hometech,Mac Os,Apple M1,13.0,2560 x 1600,128.0,16.0,0.0,60.0,M1 7 Çekirdekli,14.1,5.999
+acer,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce GTX 1650,15.6,21.499
+msi,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,30.749
+asus,Windows,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,29.5992
+monster,Free Dos,Intel Core i7,11.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX3060,15.6,29.999
+asus,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,35.399
+msi,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,27.299
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,13.4983
+hometech,Free Dos,Intel Celeron,4.0,1366 x 768,256.0,8.0,0.0,60.0,Intel UHD Graphics 600,14.1,6.599
+huawei,Windows,Intel Core i5,12.0,1920 x 1200,512.0,16.0,0.0,60.0,Intel Iris Graphics,14.0,19.299
+dell,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,16.0,0.0,165.0,Nvidia GeForce RTX 4060,15.6,40.899
+hp,Windows,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,16.6838
+acer,Free Dos,Intel Core i3,3.0,1920 x 1080,256.0,8.0,256.0,60.0,Dahili Ekran Kartı,15.6,9.329
+asus,Windows,Intel Core i9,13.0,3200 x 2000,1.0,32.0,0.0,120.0,Nvidia GeForce RTX 4070,16.0,186.0
+acer,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 4060,15.6,38.999
+asus,Windows,Intel Core i5,10.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce GTX 1650,15.6,26.6238
+lenovo,Free Dos,AMD Ryzen 5,13.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD,14.0,15.199
+asus,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,22.999
+acer,Windows,Intel Celeron,12.0,1366 x 768,64.0,8.0,0.0,90.0,Intel UHD Graphics,11.6,8.598
+asus,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,26.7146
+lenovo,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,13.497
+acer,Windows,Intel Core i5,13.0,1920 x 1080,512.0,8.0,512.0,60.0,Dahili Ekran Kartı,15.6,15.999
+hp,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,16.1,34.269
+msi,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,34.8471
+monster,Free Dos,Intel Core i5,13.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 3050,17.3,32.3033
+hp,Free Dos,Intel Core i3,13.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,14.0,10.889
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,24.75
+asus,Windows,Intel Core i5,11.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,30.6746
+lenovo,Mac Os,Apple M1,13.0,2560 x 1600,512.0,16.0,0.0,60.0,M1 7 Çekirdekli,15.6,20.599
+monster,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,19.499
+asus,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,14.899
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,165.0,Nvidia GeForce RTX 3050,15.6,26.6292
+msi,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,16.399
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,24.0,0.0,60.0,Intel UHD Graphics,15.6,18.299
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,256.0,8.0,0.0,60.0,Nvidia GeForce GTX 1650,15.6,21.999
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce RTX 3050,15.6,27.894
+monster,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,38.999
+casper,Free Dos,Intel Core i3,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,12.399
+msi,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,38.888
+msi,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,34.9243
+hp,Free Dos,AMD Ryzen 5,6.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,16.1,24.7241
+casper,Free Dos,Intel Core i7,11.0,1920 x 1080,500.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,14.9555
+acer,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,8.0,0.0,165.0,Nvidia GeForce RTX 4060,15.6,34.999
+lenovo,Windows,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,15.3378
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,512.0,16.0,0.0,144.0,AMD Radeon RX6500M,15.6,22.299
+lenovo,Free Dos,AMD Ryzen 3,7.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,9.799
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,11.3999
+asus,Windows,Intel Core i5,10.0,1920 x 1080,512.0,32.0,0.0,60.0,Nvidia GeForce GTX 1650,15.6,26.1188
+casper,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,20.499
+asus,Mac Os,Apple M1,13.0,2560 x 1600,128.0,16.0,0.0,60.0,M1 7 Çekirdekli,15.6,8.674
+acer,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,22.49
+asus,Windows,Intel Core i5,11.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,30.1932
+monster,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,29.999
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,15.499
+asus,Windows,Intel Celeron,13.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel UHD Graphics 600,14.0,9.4041
+asus,Windows,Intel Core i5,10.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce GTX 1650,15.6,26.2332
+apple,Mac Os,Apple M2 Max,12.0,3456 x 2234,1.0,32.0,1.0,120.0,M2 Max 38 Çekirdekli,14.0,113.3119
+apple,Mac Os,Apple M1,3.0,2560 x 1600,256.0,8.0,250.0,120.0,Dahili Ekran Kartı,13.3,28.999
+asus,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,21.2248
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,120.0,Nvidia GeForce GTX 1650,15.6,24.9321
+monster,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,34.999
+casper,Free Dos,Intel Celeron,4.0,1280 x 800,120.0,8.0,0.0,60.0,Intel HD Graphics,15.6,8.427
+msi,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,17.3,57.449
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,120.0,Nvidia GeForce RTX 3050,15.6,26.984
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,256.0,60.0,Nvidia GeForce RTX 3050,15.6,27.399
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,120.0,Nvidia GeForce RTX 3050,15.6,24.934
+acer,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,29.999
+lenovo,Windows,AMD Ryzen 7,5.0,1920 x 1080,1.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,17.075
+lenovo,Free Dos,AMD Athlon,10.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,8.9
+lenovo,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,9.849
+dell,Mac Os,Apple M1,13.0,2560 x 1600,1.0,16.0,0.0,60.0,M1 7 Çekirdekli,15.6,15.1999
+lenovo,Windows,AMD Ryzen 7,5.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,14.7456
+acer,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce MX350,15.6,14.999
+lenovo,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,13.189
+msi,Windows,Intel Core i7,12.0,1920 x 1080,1.0,64.0,0.0,144.0,Nvidia GeForce RTX 4070,17.3,54.6359
+lenovo,Windows,AMD Ryzen 7,5.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,14.434
+lenovo,Windows,Intel Celeron,1.0,1366 x 768,256.0,4.0,0.0,60.0,Intel UHD Graphics 600,15.6,7.8282
+acer,Mac Os,Apple M1,13.0,2560 x 1600,512.0,16.0,512.0,60.0,M1 7 Çekirdekli,14.0,19.5
+hp,Windows,AMD Ryzen 7,5.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,12.999
+asus,Windows,Intel Core i5,10.0,1920 x 1080,1.0,8.0,0.0,60.0,Nvidia GeForce GTX 1650,15.6,27.6192
+lenovo,Chrome OS,Intel Celeron,13.0,1366 x 768,0.0,4.0,0.0,60.0,Dahili Ekran Kartı,11.6,6.499
+apple,Mac Os,M2,13.0,2560 x 1600,256.0,16.0,0.0,60.0,M2 10 Çekirdekli,13.6,44.399
+asus,Mac Os,Apple M1,13.0,2560 x 1600,512.0,16.0,0.0,60.0,M1 7 Çekirdekli,14.0,13.899
+asus,Windows,Intel Core i5,11.0,1920 x 1080,1.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,29.5438
+casper,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,31.999
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,120.0,Nvidia GeForce GTX 1650,15.6,21.198
+msi,Windows,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,32.999
+lenovo,Windows,AMD Ryzen 7,5.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,14.984
+hp,Free Dos,AMD Ryzen 5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,10.0999
+apple,Mac Os,M2,13.0,2560 x 1600,256.0,16.0,0.0,60.0,M2 10 Çekirdekli,13.6,40.0813
+monster,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,27.099
+asus,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,28.2132
+lenovo,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,18.799
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,500.0,8.0,0.0,144.0,Nvidia GeForce GTX 1650,15.6,22.999
+apple,Mac Os,M2,2.0,2560 x 1600,256.0,8.0,256.0,120.0,M2 10 Çekirdekli,13.0,43.499
+asus,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,28.2105
+lenovo,Windows,Intel Core i5,12.0,1920 x 1200,512.0,8.0,0.0,60.0,Intel Iris Graphics,14.0,23.999
+asus,Windows,Intel Core i3,11.0,1920 x 1080,256.0,12.0,0.0,60.0,Intel UHD Graphics,15.6,10.699
+dell,Windows,AMD Ryzen 5,13.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce RTX 3050,15.6,24.899
+asus,Windows,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,41.9444
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,14.999
+apple,Mac Os,Apple M2,1.0,2560 x 1600,256.0,8.0,250.0,120.0,M2 8 Çekirdekli,13.6,35.999
+lenovo,Free Dos,AMD Ryzen 3,11.0,1366 x 768,256.0,4.0,0.0,60.0,Dahili Ekran Kartı,15.6,8.499
+asus,Windows,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,40.775
+msi,Windows,Intel Core i7,13.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4070,15.6,66.289
+casper,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,1.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,13.4549
+asus,Free Dos,Intel Core i3,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,10.999
+asus,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,28.2132
+casper,Free Dos,Intel Core i5,11.0,1920 x 1080,500.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,13.999
+hp,Free Dos,Intel Core i5,13.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,30.999
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,29.4118
+asus,Windows,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,38.9744
+msi,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce RTX 3050,15.6,25.699
+hp,Mac Os,Apple M1,13.0,2560 x 1600,1.0,16.0,0.0,60.0,M1 7 Çekirdekli,15.6,31.199
+asus,Windows,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,31.25
+hp,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,14.7928
+acer,Windows,Intel Core i5,12.0,1920 x 1080,256.0,8.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,23.5988
+huawei,Windows,Intel Core i3,10.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,14.0,13.79
+msi,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,16.899
+lenovo,Windows,AMD Ryzen 7,5.0,1920 x 1080,1.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,16.984
+asus,Windows,Intel Core i5,10.0,1920 x 1080,256.0,8.0,256.0,90.0,Intel XE Graphics,15.6,13.099
+asus,Windows,Intel Core i5,11.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,33.5
+dell,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce MX350,15.6,15.9195
+lenovo,Windows,AMD Ryzen 7,5.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,14.5058
+hp,Free Dos,AMD Ryzen 7,6.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,16.1,26.595
+msi,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,22.999
+casper,Free Dos,Intel Core i5,11.0,1920 x 1080,500.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,11.689
+hp,Free Dos,Intel Core i3,13.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,14.0,10.899
+msi,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX3060,15.6,30.65
+asus,Windows,Intel Core i7,12.0,3840 x 2160,0.0,16.0,1.0,60.0,Nvidia GeForce RTX3060,15.6,184.999
+hp,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,90.0,Nvidia GeForce RTX 4050,15.6,29.799
+hp,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,16.1,39.999
+apple,Mac Os,M2,2.0,2560 x 1600,256.0,8.0,256.0,120.0,M2 10 Çekirdekli,13.0,41.899
+huawei,Windows,Intel Core i9,13.0,1920 x 1200,1.0,16.0,0.0,60.0,Intel Iris Graphics,16.0,39.5
+lenovo,Free Dos,AMD Ryzen 7,6.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce RTX 3050 Ti,15.6,25.999
+huawei,Windows,Intel Core i5,10.0,1920 x 1080,512.0,8.0,512.0,60.0,Intel UHD Graphics 620,14.0,18.799
+microsoft,Windows,Intel Core i5,12.0,2880 x 1800,128.0,8.0,0.0,120.0,Intel Iris Graphics,13.0,39.005
+lenovo,Windows,Intel Core i5,12.0,1920 x 1080,256.0,8.0,256.0,60.0,Intel UHD Graphics,15.6,15.999
+lenovo,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,11.099
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,15.799
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,128.0,4.0,0.0,60.0,Intel Iris Graphics,15.6,9.4041
+hp,Free Dos,Intel Core i5,13.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,26.999
+asus,Windows,Intel Core i5,12.0,2560 x 1600,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,14.0,25.999
+lenovo,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,512.0,60.0,Intel UHD Graphics,15.6,15.999
+lenovo,Windows,Intel Core i5,10.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce MX330,15.6,15.625
+monster,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,32.0,0.0,60.0,Intel Iris Graphics,14.1,23.499
+hp,Windows,Intel Core i7,13.0,2560 x 1600,1.0,32.0,0.0,60.0,Intel XE Graphics,14.0,60.562
+hp,Windows,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Vega 8,15.6,13.999
+hp,Free Dos,AMD Ryzen 5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,10.0799
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,1.0,32.0,0.0,60.0,AMD Radeon Graphics,15.6,12.9999
+acer,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,22.999
+apple,Mac Os,M2,13.0,2560 x 1600,256.0,16.0,0.0,60.0,M2 8 Çekirdekli,13.6,46.96
+acer,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,22.07
+apple,Mac Os,Apple M2,1.0,2560 x 1600,256.0,8.0,250.0,120.0,M2 8 Çekirdekli,13.6,35.999
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,13.995
+msi,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,42.999
+monster,Free Dos,Intel Core i9,13.0,2560 x 1600,2.0,64.0,0.0,240.0,Nvidia GeForce RTX 4090,17.0,138.999
+acer,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce MX450,15.6,16.499
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,12.799
+dell,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,12.869
+apple,Mac Os,Apple M1,13.0,2560 x 1600,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,13.3,36.399
+lenovo,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,500.0,144.0,Nvidia GeForce RTX 3050,15.6,27.449
+lenovo,Free Dos,Intel Core i7,11.0,1920 x 1080,512.0,16.0,0.0,165.0,Nvidia GeForce RTX 3050,15.6,28.599
+casper,Free Dos,Intel Core i7,11.0,1920 x 1080,500.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,16.999
+dell,Free Dos,Intel Core i3,11.0,1366 x 768,0.0,8.0,1.0,60.0,Intel HD Graphics,14.0,9.399
+casper,Windows,Intel Celeron,13.0,1366 x 768,120.0,4.0,0.0,60.0,Intel UHD Graphics 600,15.6,7.999
+asus,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,31.899
+casper,Free Dos,Intel Core i7,12.0,1920 x 1080,2.0,32.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,41.799
+casper,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,27.399
+huawei,Mac Os,Apple M1,13.0,2560 x 1600,512.0,16.0,0.0,60.0,M1 7 Çekirdekli,16.0,24.999
+hp,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,28.999
+casper,Free Dos,Intel Core i7,12.0,1920 x 1080,2.0,32.0,0.0,60.0,Dahili Ekran Kartı,15.6,20.999
+monster,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,43.699
+dell,Free Dos,Intel Core i7,13.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce RTX 3050,15.6,34.999
+huawei,Windows,Intel Core i9,13.0,2560 x 1664,1.0,16.0,0.0,60.0,Intel XE Graphics,16.0,37.989
+asus,Free Dos,Intel Core i7,13.0,1920 x 1200,512.0,16.0,0.0,165.0,Nvidia GeForce RTX 4050,16.0,42.399
+monster,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,120.0,Intel Iris Graphics,15.6,19.249
+acer,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,12.499
+msi,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,17.3,46.499
+lenovo,Free Dos,Intel Celeron,13.0,1366 x 768,128.0,4.0,0.0,60.0,Intel UHD Graphics 600,14.0,8.333
+acer,Free Dos,Intel Core i3,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,9.699
+hp,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,24.322
+hp,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,28.2646
+xiaomi,Windows,Intel Core i7,11.0,1920 x 1080,512.0,16.0,0.0,90.0,Intel XE Graphics,15.6,29.999
+hp,Free Dos,AMD Ryzen 3,7.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,10.15
+samsung,Windows,Intel Core i5,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,13.3,39.9
+acer,Free Dos,AMD Ryzen 5,6.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,23.499
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel XE Graphics,15.6,14.299
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,13.099
+hp,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,16.1,32.999
+hp,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,15.6,27.499
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,22.199
+hometech,Windows,Intel Celeron,13.0,1920 x 1080,128.0,4.0,0.0,60.0,Belirtilmemiş,14.1,5.999
+dell,Free Dos,Intel Core i3,11.0,1366 x 768,0.0,4.0,1.0,60.0,Intel HD Graphics,14.0,8.274
+asus,Windows,Intel Core i7,12.0,1920 x 1080,2.0,40.0,0.0,60.0,Intel UHD Graphics,15.6,44.999
+acer,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,165.0,Nvidia GeForce RTX 3050 Ti,17.3,25.695
+hp,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4060,16.1,43.699
+acer,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,15.6,26.299
+msi,Windows,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,31.6799
+monster,Free Dos,Intel Core i5,13.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4050,17.3,36.3693
+dell,Linux,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,22.6278
+lenovo,Windows,AMD Ryzen 7,5.0,1920 x 1200,512.0,16.0,512.0,60.0,AMD Radeon R3,16.0,25.595
+hp,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,10.89
+monster,Windows,Intel Core i7,13.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4050,17.3,42.999
+asus,Windows,Intel Celeron,4.0,1920 x 1080,128.0,4.0,0.0,60.0,Intel UHD Graphics,14.0,6.91
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce RTX 3050 Ti,15.6,25.999
+asus,Windows,Intel Core i9,13.0,2880 x 1800,2.0,32.0,0.0,120.0,Nvidia GeForce RTX 4060,14.5,168.2991
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,500.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,10.6911
+acer,Windows,Intel Celeron,13.0,1920 x 1080,128.0,4.0,0.0,60.0,Intel UHD Graphics,15.6,7.389
+asus,Mac Os,Apple M1,13.0,2560 x 1600,512.0,16.0,0.0,60.0,M1 7 Çekirdekli,15.6,27.599
+asus,Free Dos,Intel Celeron,5.0,1366 x 768,1.0,16.0,0.0,60.0,Intel UHD Graphics 600,15.6,13.7101
+acer,Windows,Intel Core i5,11.0,1920 x 1080,0.0,8.0,512.0,60.0,Nvidia GeForce MX450,15.6,15.999
+asus,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,30.999
+monster,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,17.3,35.799
+casper,Free Dos,Intel Core i7,13.0,2560 x 1600,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 4060,16.0,47.799
+asus,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,0.0,60.0,M1 7 Çekirdekli,15.6,9.899
+asus,Windows,Intel Core i5,10.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce GTX 1650,15.6,26.1351
+asus,Free Dos,Intel Core i7,13.0,1920 x 1200,512.0,16.0,0.0,165.0,Nvidia GeForce RTX 4060,16.0,51.4052
+casper,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,500.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,11.5151
+huawei,Windows,Intel Core i3,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,19.999
+msi,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,500.0,144.0,Nvidia GeForce RTX 4050,15.6,40.67
+msi,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX3060,17.3,39.999
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,13.299
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,13.999
+lenovo,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,256.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,14.49
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,26.299
+msi,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,25.499
+asus,Windows,AMD Ryzen 7,7.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,37.925
+asus,Free Dos,AMD Ryzen 7,13.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,31.999
+hp,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,28.299
+technopc,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,6.59
+acer,Free Dos,AMD Ryzen 5,7.0,1920 x 1200,512.0,16.0,0.0,165.0,Nvidia GeForce RTX 4050,16.0,36.999
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,120.0,Nvidia GeForce RTX 3050 Ti,15.6,26.499
+msi,Free Dos,AMD Ryzen 5,13.0,1920 x 1080,512.0,8.0,0.0,60.0,Paylaşımlı,14.0,22.499
+acer,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,0.0,60.0,M1 7 Çekirdekli,15.6,11.849
+asus,Windows,Intel Celeron,13.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics 600,14.0,8.8101
+asus,Free Dos,Intel Core i9,13.0,2560 x 1600,2.0,64.0,0.0,240.0,Nvidia GeForce RTX 4090,18.0,172.8296
+asus,Free Dos,AMD Ryzen 7,3.0,1920 x 1080,512.0,24.0,0.0,60.0,AMD Radeon Graphics,15.6,15.0
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,11.9499
+acer,Free Dos,Intel Core i5,12.0,1920 x 1080,256.0,8.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,21.999
+toshiba,Free Dos,Intel Core i3,10.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel HD Graphics 620,14.0,14.3
+hp,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,16.1,28.999
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,14.799
+asus,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,16.999
+asus,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce RTX 2050,15.6,24.949
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce RTX 3050,15.6,24.999
+lenovo,Free Dos,Intel Core i7,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,17.979
+acer,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,24.9988
+asus,Free Dos,Intel Celeron,5.0,1366 x 768,256.0,8.0,0.0,60.0,Intel UHD Graphics 600,15.6,9.4531
+asus,Windows,Intel Core i3,10.0,1920 x 1080,256.0,4.0,0.0,60.0,Intel UHD Graphics,15.6,9.499
+asus,Free Dos,Intel Core i5,10.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce GTX 1650,15.6,24.7346
+asus,Windows,Intel Core i9,12.0,1920 x 1200,1.0,16.0,0.0,120.0,Nvidia GeForce RTX 3050 Ti,13.4,40.8959
+asus,Free Dos,Intel Celeron,13.0,1920 x 1080,128.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,8.099
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,144.0,Intel Iris Graphics,15.6,12.629
+lenovo,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,8.999
+lenovo,Free Dos,Intel Core i5,11.0,1366 x 768,512.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,13.773
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,16.099
+lenovo,Free Dos,AMD Ryzen 7,5.0,2880 x 1800,1.0,16.0,1.0,90.0,AMD Radeon R7,14.0,35.999
+dell,Free Dos,Intel Core i7,13.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce RTX 3050,15.6,35.999
+acer,Free Dos,AMD Ryzen 3,7.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,9.299
+lenovo,Windows,Intel Core i9,12.0,3840 x 2400,1.0,32.0,0.0,60.0,Belirtilmemiş,16.0,187.349
+hp,Windows,Intel Core i7,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce MX450,14.0,34.999
+acer,Windows,Intel Celeron,13.0,1920 x 1080,128.0,4.0,0.0,60.0,Dahili Ekran Kartı,15.6,8.9
+asus,Windows,Ryzen Z1 Extreme,13.0,1920 x 1080,512.0,16.0,500.0,120.0,AMD Radeon Graphics,7.0,32.987
+hp,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,16.1,29.999
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,11.4331
+lenovo,Windows,Intel Core i7,13.0,1920 x 1200,1.0,16.0,0.0,60.0,Dahili Ekran Kartı,16.0,53.19
+asus,Windows,Intel Celeron,4.0,1920 x 1080,128.0,12.0,0.0,60.0,Intel UHD Graphics,15.6,8.549
+lenovo,Free Dos,AMD E,10.0,1920 x 1080,0.0,8.0,1.0,60.0,Dahili Ekran Kartı,15.6,15.555
+lenovo,Free Dos,Intel Celeron,13.0,1920 x 1080,256.0,4.0,256.0,60.0,Intel UHD Graphics 600,14.0,9.499
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,14.999
+casper,Windows,Intel Core i5,11.0,1920 x 1080,500.0,8.0,0.0,60.0,Intel XE Graphics,15.6,14.699
+lenovo,Free Dos,Intel Core i3,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Paylaşımlı,15.6,10.4999
+lenovo,Windows,MediaTek P60T,5.0,4480 x 2520,32.0,36.0,500.0,90.0,Nvidia GeForce MX450,18.0,9.074
+msi,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,24.599
+dell,Windows,AMD Ryzen 5,5.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,16.0
+lenovo,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce RTX 4050,15.6,27.599
+asus,Windows,Intel Celeron,13.0,1920 x 1080,128.0,8.0,0.0,60.0,Intel UHD Graphics,14.0,9.499
+dell,Linux,Intel Core i7,13.0,2560 x 1600,512.0,16.0,0.0,165.0,Nvidia GeForce RTX 4060,16.0,45.499
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,165.0,Nvidia GeForce RTX3060,15.6,27.999
+asus,Windows 11,Intel Core i5,11.0,1920 x 1080,256.0,8.0,256.0,60.0,Dahili Ekran Kartı,14.0,17.0
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,14.0,16.5
+asus,Windows 11,Intel Core i5,11.0,1920 x 1080,256.0,8.0,256.0,60.0,Intel UHD Graphics,15.6,14.999
+lenovo,Free Dos,Intel Core i7,11.0,2560 x 1440,512.0,32.0,0.0,60.0,Nvidia GeForce RTX3060,15.6,37.999
+monster,Free Dos,Intel Core i7,11.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,15.6,29.399
+monster,Windows,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4060,17.3,47.249
+apple,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,54.999
+huawei,Windows,Intel Core i3,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,14.0,13.899
+lenovo,Free Dos,AMD Athlon,13.0,1366 x 768,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,8.889
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce RTX3060,15.6,27.299
+acer,Windows,Intel Core i7,11.0,1920 x 1080,512.0,16.0,512.0,60.0,Nvidia GeForce MX330,14.0,18.999
+apple,Mac Os,M2,13.0,2560 x 1600,256.0,16.0,0.0,60.0,M2 8 Çekirdekli,13.0,43.99
+huawei,Free Dos,Intel Atom,1.0,1280 x 800,120.0,1.0,0.0,60.0,AMD Radeon R5,10.0,56.5343
+casper,Mac Os,Apple M1,13.0,2560 x 1600,500.0,16.0,256.0,60.0,M1 7 Çekirdekli,15.6,14.5
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,512.0,120.0,Intel Iris Graphics,15.6,14.619
+lenovo,Free Dos,AMD Ryzen 7,6.0,2560 x 1600,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 3070,16.0,46.999
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,256.0,4.0,0.0,60.0,AMD Radeon Graphics,15.6,9.699
+lenovo,Windows,Intel Core i5,10.0,1920 x 1200,512.0,8.0,512.0,90.0,Intel XE Graphics,14.0,25.999
+casper,Windows,Intel Core i5,11.0,1920 x 1080,500.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,13.79
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,500.0,16.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,24.8714
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,512.0,60.0,Intel UHD Graphics,14.0,14.249
+msi,Windows,Intel Core i5,12.0,1920 x 1080,512.0,16.0,500.0,144.0,Nvidia GeForce RTX 3050,15.6,28.899
+samsung,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,256.0,60.0,Intel Iris Pro Graphics,15.6,21.499
+acer,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,14.999
+apple,Mac Os,Apple M2 Pro,13.0,3024 x 1964,512.0,16.0,0.0,120.0,M2 Pro 19 Çekirdekli,14.0,74.9
+casper,Free Dos,Intel Core i7,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,16.899
+asus,Linux,Intel Celeron,3.0,1366 x 768,0.0,4.0,256.0,60.0,Intel HD Graphics 520,15.6,9.499
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,0.0,8.0,500.0,165.0,Nvidia GeForce RTX 3050,15.6,23.718
+casper,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,11.899
+hp,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,16.1,36.999
+msi,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce RTX 2050,15.6,24.5
+msi,Windows,Intel Core i7,13.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4060,17.3,59.99
+asus,Windows,AMD Ryzen 5,5.0,1920 x 1080,0.0,16.0,512.0,60.0,Radeon Vega 7 Graphics,14.0,29.999
+apple,Mac Os,M3,3.0,3024 x 1964,512.0,18.0,0.0,120.0,M3,14.0,78.999
+acer,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce MX450,15.6,22.5
+asus,Free Dos,Intel Core i3,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,9.8001
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce RTX 3050 Ti,15.6,23.999
+lenovo,Free Dos,AMD Ryzen 3,7.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,9.799
+asus,Windows,AMD Ryzen 5,5.0,2880 x 1800,0.0,16.0,512.0,60.0,AMD Radeon Graphics,14.0,33.999
+lenovo,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,9.249
+lenovo,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,12.999
+asus,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,31.999
+casper,Mac Os,Apple M1,13.0,2560 x 1600,120.0,16.0,0.0,60.0,M1 7 Çekirdekli,15.6,9.999
+asus,Windows,Intel Core i7,11.0,2880 x 1800,2.0,16.0,0.0,120.0,Nvidia GeForce MX450,14.0,49.99
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,16.899
+monster,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,120.0,Intel Iris Graphics,15.6,18.299
+asus,Windows,MediaTek P60T,5.0,4480 x 2520,32.0,36.0,500.0,90.0,Nvidia GeForce MX450,18.0,9.733
+casper,Free Dos,Intel Core i5,11.0,1920 x 1080,500.0,8.0,0.0,60.0,Intel XE Graphics,15.6,12.9428
+asus,Windows,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,16.999
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,15.899
+lenovo,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,24.149
+gigabyte,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,31.099
+asus,Free Dos,AMD Ryzen 9,9.0,1920 x 1080,1.0,16.0,0.0,60.0,Nvidia GeForce RTX 3050,15.6,45.999
+asus,Free Dos,Intel Celeron,13.0,1920 x 1080,128.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,8.649
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,500.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,25.099
+casper,Free Dos,Intel Core i9,13.0,2560 x 1600,2.0,64.0,0.0,165.0,Nvidia GeForce RTX 4090,16.0,100.999
+asus,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,12.2471
+huawei,Windows,Intel Core i9,12.0,2560 x 1600,1.0,16.0,0.0,60.0,Intel Iris Graphics,16.0,39.499
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,500.0,16.0,0.0,144.0,Nvidia GeForce GTX 1650,15.6,23.599
+monster,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,120.0,Intel Iris Graphics,15.6,26.499
+dell,Free Dos,Intel Core i3,11.0,1366 x 768,256.0,8.0,0.0,60.0,Intel UHD Graphics,14.0,9.07
+asus,Windows,Intel Core i9,13.0,2560 x 1600,2.0,64.0,0.0,240.0,Nvidia GeForce RTX 4080,16.0,125.433
+msi,Free Dos,Intel Core i9,13.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4070,17.3,55.5024
+apple,Mac Os,Apple M2,2.0,2880 x 1800,256.0,8.0,256.0,120.0,M2 10 Çekirdekli,15.0,44.999
+asus,Free Dos,AMD Ryzen 9,7.0,2560 x 1440,1.0,16.0,0.0,240.0,Nvidia GeForce RTX 4070,17.3,65.999
+apple,Mac Os,M2,13.0,2550 x 1600,512.0,8.0,0.0,60.0,M2 8 Çekirdekli,13.0,44.9
+acer,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce GTX 1650,15.6,23.0
+msi,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX3060,17.3,42.499
+huawei,Mac Os,Apple M1,13.0,2560 x 1600,512.0,16.0,0.0,60.0,M1 7 Çekirdekli,15.6,19.899
+asus,Windows,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,30.499
+acer,Linux,AMD Ryzen 5,3.0,1920 x 1080,512.0,8.0,512.0,60.0,Dahili Ekran Kartı,15.6,10.499
+casper,Free Dos,Intel Core i7,12.0,1920 x 1080,500.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,18.899
+lenovo,Free Dos,AMD Athlon,7.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,9.4467
+asus,Free Dos,AMD Ryzen 7,4.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,15.6,39.1387
+apple,Mac Os,M2,2.0,2560 x 1600,256.0,8.0,512.0,144.0,M2 8 Çekirdekli,13.0,42.499
+lenovo,Free Dos,Intel Core i5,12.0,2560 x 1600,512.0,16.0,512.0,60.0,Intel XE Graphics,13.3,21.999
+hp,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,15.6,28.099
+dell,Ubuntu,Intel Core i3,11.0,1366 x 768,0.0,4.0,1.0,60.0,Intel UHD Graphics,14.0,8.4141
+casper,Free Dos,Intel Celeron,13.0,1366 x 768,240.0,4.0,0.0,60.0,Intel UHD Graphics 600,15.6,8.811
+asus,Free Dos,AMD Ryzen 7,13.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,44.999
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce MX350,15.6,18.7074
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,120.0,Nvidia GeForce RTX 3050,15.6,22.899
+asus,Windows,Intel Core i5,12.0,1920 x 1200,512.0,8.0,0.0,60.0,Nvidia GeForce RTX 3050,16.0,27.309
+msi,Free Dos,Intel Core i9,13.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4070,15.6,55.399
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,11.799
+lenovo,Windows,Intel Core i3,12.0,1920 x 1080,256.0,8.0,256.0,60.0,Intel UHD Graphics,15.6,11.65
+asus,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,7.148
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,12.749
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,256.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,10.8999
+asus,Free Dos,Intel Core i7,13.0,1920 x 1200,512.0,16.0,0.0,165.0,Nvidia GeForce RTX 4050,16.0,42.999
+dell,Free Dos,Intel Core M,13.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,168.3851
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,17.499
+asus,Free Dos,Intel Core i5,5.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,14.299
+lenovo,Windows,Intel Core i3,10.0,1920 x 1080,256.0,4.0,0.0,60.0,Intel UHD Graphics,14.0,11.399
+msi,Windows,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4070,15.6,53.6
+asus,Free Dos,AMD Ryzen 9,7.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4070,15.6,52.499
+apple,Mac Os,M3,3.0,3024 x 1964,512.0,36.0,0.0,120.0,M3,16.0,109.399
+dell,Free Dos,Intel Core i3,11.0,1366 x 768,512.0,8.0,0.0,60.0,Intel UHD Graphics,14.0,9.3715
+casper,Free Dos,Intel Core i5,11.0,1920 x 1080,500.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,14.799
+lenovo,Windows,Intel Core i9,10.0,1920 x 1080,1.0,16.0,0.0,90.0,Nvidia GeForce RTX 4090,16.0,159.999
+asus,Windows,AMD Ryzen 3,3.0,1366 x 768,256.0,12.0,0.0,60.0,AMD Radeon Graphics,15.6,9.5521
+asus,Windows,Intel Celeron,4.0,1920 x 1080,128.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,8.199
+acer,Windows,Intel Core i5,10.0,1920 x 1080,1.0,8.0,0.0,90.0,Nvidia GeForce RTX 4050,15.6,27.999
+apple,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,44.999
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,27.6192
+acer,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,17.3,27.6984
+asus,Windows,Intel Celeron,10.0,1920 x 1080,128.0,4.0,0.0,60.0,Intel UHD Graphics,14.0,6.999
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,24.0,2.0,60.0,Nvidia GeForce MX350,15.6,20.7335
+lenovo,Free Dos,Intel Core i7,10.0,1920 x 1080,256.0,4.0,0.0,120.0,Nvidia GeForce RTX 3090,14.0,16.0
+msi,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,17.3,48.849
+apple,Mac Os,Apple M2,2.0,2880 x 1620,256.0,8.0,256.0,120.0,M2 10 Çekirdekli,15.0,51.999
+asus,Free Dos,Intel Celeron,13.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,9.199
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,500.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,33.999
+hp,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce MX550,15.6,19.9
+msi,Windows,Intel Core i9,13.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4070,17.3,73.919
+lenovo,Windows,Intel Core i5,7.0,1920 x 1080,256.0,8.0,0.0,90.0,Intel Iris Graphics,15.6,13.999
+hp,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,14.85
+monster,Windows,Intel Core i7,13.0,2560 x 1600,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 4070,16.0,65.499
+lenovo,Windows,Intel Core i5,13.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel XE Graphics,15.6,17.539
+acer,Windows,Intel Core i7,13.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,14.0,33.999
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce RTX 3050,15.6,24.899
+huawei,Free Dos,AMD,10.0,2160 x 1440,512.0,8.0,0.0,120.0,AMD Radeon Graphics,14.0,38.0
+asus,Windows,Intel Core i5,10.0,1920 x 1200,512.0,8.0,512.0,90.0,Intel XE Graphics,16.0,15.999
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Belirtilmemiş,15.6,22.799
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,512.0,32.0,0.0,144.0,AMD Radeon RX6500M,15.6,24.299
+acer,Windows,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,29.999
+lenovo,Free Dos,Intel Celeron,4.0,1366 x 768,0.0,4.0,128.0,60.0,Intel UHD Graphics,15.6,7.15
+apple,Mac Os,M2,13.0,2560 x 1664,512.0,8.0,0.0,60.0,Belirtilmemiş,13.6,42.999
+asus,Windows,Intel Celeron,13.0,1366 x 768,128.0,4.0,0.0,60.0,Paylaşımlı,15.6,9.899
+asus,Free Dos,Intel Core i7,8.0,1366 x 768,256.0,8.0,250.0,60.0,Dahili Ekran Kartı,14.0,18.4797
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,12.5721
+hp,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4070,16.1,48.899
+msi,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,29.399
+casper,Free Dos,Intel Core i9,13.0,2560 x 1600,1.0,64.0,0.0,165.0,Nvidia GeForce RTX 4090,16.0,105.199
+apple,Mac Os,Apple M2,13.0,2560 x 1600,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,13.3,64.96
+casper,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,28.899
+lenovo,Free Dos,Intel Core i5,11.0,1366 x 768,256.0,8.0,0.0,60.0,Nvidia GeForce MX330,14.0,12.6256
+lenovo,Free Dos,Intel Celeron,9.0,1366 x 768,128.0,4.0,0.0,60.0,Intel UHD Graphics 600,15.6,6.829
+hp,Free Dos,Intel Core i5,13.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,16.1,30.999
+dell,Windows,Intel Core i7,13.0,2560 x 1600,1.0,16.0,0.0,60.0,Nvidia GeForce RTX 2050,14.0,34.999
+hp,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,11.999
+asus,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,25.799
+asus,Free Dos,Intel Core i3,11.0,1920 x 1080,128.0,4.0,128.0,60.0,Intel UHD Graphics,15.6,9.249
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,500.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,16.799
+acer,Windows,Intel Core i3,10.0,1920 x 1080,256.0,4.0,256.0,90.0,Intel UHD Graphics,15.6,9.572
+asus,Windows,AMD Ryzen 5,4.0,1920 x 1080,0.0,8.0,256.0,60.0,AMD Radeon Graphics,15.6,13.999
+dell,Free Dos,Intel Core i9,13.0,1920 x 1080,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 4060,15.6,49.659
+asus,Free Dos,AMD Ryzen 5,5.0,1920 x 1200,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,16.0,14.3
+monster,Free Dos,Intel Core i5,12.0,1920 x 1080,500.0,8.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,29.999
+dell,Windows,Intel Core i7,13.0,2560 x 1600,1.0,16.0,0.0,165.0,Nvidia GeForce RTX 4080,16.0,62.999
+asus,Free Dos,Intel Core i5,12.0,1920 x 1200,512.0,16.0,0.0,120.0,Nvidia GeForce RTX 2050,16.0,26.089
+huawei,Windows,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,512.0,60.0,AMD Radeon Graphics,15.6,22.29
+dell,Free Dos,Intel Core i3,11.0,1366 x 768,128.0,16.0,0.0,60.0,Intel UHD Graphics,14.0,9.3715
+lenovo,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,14.999
+msi,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,39.999
+lenovo,Windows,Intel Core i5,11.0,2256 x 1504,256.0,16.0,0.0,60.0,Intel Iris Graphics,13.5,42.999
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,128.0,4.0,0.0,60.0,Intel Iris Graphics,15.6,9.599
+hp,Free Dos,Intel Xeon,12.0,3456 x 2234,4.0,16.0,500.0,90.0,Nvidia Quadro P2200,13.4,18.999
+dell,Linux,Intel Core i9,13.0,2560 x 1600,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 4070,16.0,61.799
+msi,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,20.964
+lenovo,Free Dos,Intel Core i7,12.0,2560 x 1600,512.0,16.0,0.0,60.0,Intel Iris Graphics,12.3,34.999
+msi,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX3060,15.6,39.099
+lenovo,Free Dos,Intel Core i7,11.0,1920 x 1080,512.0,32.0,0.0,60.0,Nvidia GeForce MX450,14.0,39.999
+asus,Free Dos,Intel Core i7,13.0,1920 x 1200,512.0,8.0,0.0,165.0,Nvidia GeForce RTX 4060,16.0,51.2698
+dell,Free Dos,Intel Core i7,13.0,1920 x 1080,512.0,16.0,0.0,165.0,Nvidia GeForce RTX 4050,15.6,39.199
+asus,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,33.333
+asus,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,0.0,60.0,M1 7 Çekirdekli,15.6,13.499
+monster,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,29.899
+acer,Free Dos,AMD Ryzen 7,7.0,1920 x 1200,1.0,16.0,0.0,165.0,Nvidia GeForce RTX 4060,16.0,39.899
+msi,Free Dos,Intel Xeon,13.0,1920 x 1080,256.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,21.5798
+monster,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,14.1,22.499
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,256.0,8.0,256.0,60.0,Intel XE Graphics,18.0,14.93
+acer,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,8.0,1.0,144.0,Nvidia GeForce RTX 3050,15.6,20.0123
+msi,Free Dos,AMD Ryzen 5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,14.0,23.25
+asus,Windows,Intel Core i3,11.0,1920 x 1080,128.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,9.899
+huawei,Windows,MediaTek P60T,5.0,4480 x 2520,32.0,36.0,500.0,90.0,Nvidia GeForce MX450,18.0,39.499
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,165.0,Nvidia GeForce RTX 3050,15.6,26.5311
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,15.6065
+asus,Free Dos,Intel Core i3,11.0,1920 x 1080,256.0,4.0,0.0,60.0,Intel UHD Graphics,15.6,9.899
+hp,Free Dos,Intel Core i7,13.0,2560 x 1440,1.0,16.0,0.0,165.0,Nvidia GeForce RTX 4060,17.3,50.199
+asus,Windows,AMD Ryzen 3,3.0,1366 x 768,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,9.8491
+toshiba,Windows,Intel Core i5,7.0,1920 x 1080,0.0,8.0,256.0,60.0,Paylaşımlı,13.3,26.785
+dell,Linux,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,19.759
+lenovo,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,16.55
+asus,Free Dos,Intel Core i9,13.0,2560 x 1600,1.0,16.0,0.0,240.0,Nvidia GeForce RTX 4070,18.0,73.399
+monster,Free Dos,Intel Core i7,11.0,1920 x 1080,500.0,32.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,15.6,30.699
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel XE Graphics,13.3,34.999
+dell,Linux,Intel Core i5,10.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,16.0,16.999
+monster,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,22.299
+msi,Free Dos,Intel Core i7,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce RTX 3050,15.6,33.999
+acer,Windows,Intel Core i3,10.0,1920 x 1080,256.0,4.0,0.0,90.0,Intel UHD Graphics,15.6,8.999
+casper,Free Dos,Intel Core i5,11.0,1920 x 1080,500.0,32.0,0.0,60.0,Dahili Ekran Kartı,15.6,16.299
+gigabyte,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,28.799
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Nvidia GeForce MX350,15.6,17.1651
+lenovo,Free Dos,AMD Ryzen 7,7.0,1920 x 1200,512.0,16.0,0.0,90.0,AMD Radeon Graphics,13.3,32.999
+acer,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 4060,16.0,41.899
+acer,Windows,Intel Core i5,12.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,15.6,28.8081
+asus,Windows,AMD Ryzen 3,13.0,1920 x 1080,256.0,4.0,0.0,60.0,AMD Radeon R3,15.6,8.65
+asus,Windows,Ryzen Z1,13.0,1920 x 1080,512.0,16.0,500.0,120.0,AMD Radeon Graphics,7.0,29.686
+microsoft,Windows,Intel Core i7,12.0,2880 x 1800,1.0,16.0,0.0,120.0,Intel Iris Graphics,13.0,89.32
+acer,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,1.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,13.1161
+lenovo,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,32.0,1.0,120.0,Nvidia GeForce RTX 3050,15.6,33.3725
+apple,Mac Os,Apple M2,2.0,2880 x 1800,512.0,16.0,0.0,60.0,M2 10 Çekirdekli,15.0,68.999
+dell,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce RTX 3050,15.6,35.2773
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1200,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,16.0,18.499
+monster,Windows,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,17.3,41.999
+monster,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,60.0,Intel Iris Graphics,14.1,26.499
+hp,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX3060,16.1,33.449
+tecno,Windows,Intel Core i5,13.0,1920 x 1080,512.0,12.0,0.0,60.0,Belirtilmemiş,15.6,16.019
+dell,Free Dos,Intel Core i3,11.0,1366 x 768,256.0,8.0,0.0,60.0,Intel HD Graphics,14.0,9.4037
+lenovo,Windows,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,22.199
+lenovo,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,24.255
+acer,Free Dos,AMD Ryzen 5,6.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,25.399
+acer,Free Dos,AMD Ryzen 7,6.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 3070Ti,15.6,37.861
+acer,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,512.0,60.0,Dahili Ekran Kartı,15.6,16.999
+dell,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,32.0,0.0,120.0,AMD Radeon Graphics,15.6,18.1501
+acer,Linux,AMD Ryzen 5,5.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,22.699
+lenovo,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,12.999
+acer,Free Dos,Intel Core i7,11.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3070,15.6,36.625
+lenovo,Free Dos,Intel Celeron,11.0,1366 x 768,256.0,4.0,128.0,60.0,Intel UHD Graphics 600,15.6,8.5903
+lenovo,Windows,Intel Core i3,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,11.999
+dell,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 4060,15.6,47.302
+asus,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,25.499
+lenovo,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce RTX 4060,15.6,33.799
+asus,Free Dos,Intel Core i7,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce MX330,15.6,26.999
+hp,Free Dos,AMD Ryzen 5,3.0,1920 x 1080,256.0,8.0,256.0,120.0,AMD Radeon Graphics,15.6,12.785
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,16.0,0.0,60.0,Nvidia GeForce MX350,15.6,17.839
+asus,Free Dos,AMD Ryzen 7,7.0,1920 x 1200,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,14.0,37.999
+monster,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,120.0,Intel Iris Graphics,15.6,19.999
+lenovo,Free Dos,Intel Celeron,13.0,1920 x 1080,0.0,4.0,1.0,60.0,Paylaşımlı,14.0,9.489
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,29.999
+dell,Free Dos,Intel Core i3,11.0,1366 x 768,256.0,12.0,0.0,60.0,Intel UHD Graphics,14.0,9.4454
+lenovo,Windows,AMD Ryzen 5,13.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,12.899
+dell,Windows,Intel Core i5,13.0,1920 x 1200,512.0,16.0,512.0,60.0,Intel Iris Graphics,14.0,23.321
+dell,Linux,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,12.669
+asus,Free Dos,Intel Celeron,13.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,9.149
+lenovo,Windows,Intel Celeron,1.0,1366 x 768,512.0,4.0,0.0,60.0,Intel UHD Graphics 600,15.6,8.5876
+apple,Mac Os,Apple M1,1.0,2560 x 1600,256.0,16.0,0.0,60.0,Dahili Ekran Kartı,13.0,38.999
+dell,Ubuntu,Intel Core i3,11.0,1920 x 1080,256.0,8.0,1.0,60.0,Intel UHD Graphics,14.0,9.8999
+asus,Mac Os,Apple M1,13.0,2560 x 1600,512.0,16.0,0.0,60.0,M1 7 Çekirdekli,15.6,16.499
+monster,Free Dos,Intel Core i7,12.0,1920 x 1080,500.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,17.3,39.699
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,128.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,9.5521
+hp,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce MX550,15.6,18.299
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,256.0,8.0,0.0,90.0,AMD Radeon Graphics,15.6,10.4
+asus,Windows,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,18.999
+dell,Free Dos,Intel Core i3,11.0,1366 x 768,256.0,8.0,0.0,60.0,Intel UHD Graphics,14.0,9.0691
+acer,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,165.0,Nvidia GeForce RTX 4060,15.6,39.999
+casper,Free Dos,Intel Core i5,11.0,1920 x 1080,500.0,16.0,0.0,60.0,Intel XE Graphics,15.6,14.999
+lenovo,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce MX550,15.6,27.999
+lenovo,Mac Os,Apple M1,13.0,2560 x 1600,512.0,16.0,0.0,60.0,M1 7 Çekirdekli,15.6,16.0357
+acer,Windows,Intel Core i5,10.0,1920 x 1080,512.0,8.0,0.0,90.0,Intel Iris Graphics,15.6,12.999
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce GTX 1650,15.6,23.3838
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,256.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,13.3077
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,1.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,12.0999
+asus,Free Dos,Intel Core i7,10.0,1920 x 1080,512.0,8.0,500.0,60.0,Intel UHD Graphics,14.0,19.074
+acer,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,26.0
+asus,Free Dos,Intel Core i7,13.0,1920 x 1200,512.0,8.0,0.0,165.0,Nvidia GeForce RTX 4050,16.0,47.0558
+hp,Free Dos,AMD Ryzen 5,13.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce GTX 1650,15.6,25.999
+hp,Windows,MediaTek P60T,5.0,4480 x 2520,32.0,36.0,500.0,90.0,Nvidia GeForce MX450,18.0,12.25
+hp,Free Dos,Intel Core i5,13.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,16.0,27.999
+hp,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,15.2999
+lenovo,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon R5,15.6,12.447
+casper,Free Dos,Intel Core i7,12.0,1920 x 1080,500.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,28.199
+dts-teknoloji,Free Dos,Intel Celeron,4.0,2160 x 1440,256.0,8.0,250.0,60.0,Intel HD Graphics,15.6,8.5389
+msi,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,32.499
+lenovo,Windows,Intel Core i5,12.0,1920 x 1080,512.0,16.0,512.0,60.0,Intel Iris Graphics,15.6,25.399
+asus,Free Dos,Intel Core i7,12.0,1920 x 1200,512.0,16.0,0.0,165.0,Nvidia GeForce RTX 4050,16.0,43.999
+msi,Windows,Intel Core i9,13.0,2560 x 1600,2.0,32.0,0.0,240.0,Nvidia GeForce RTX 4070,17.3,85.999
+apple,Mac Os,M2,13.0,3024 x 1964,1.0,32.0,0.0,60.0,Dahili Ekran Kartı,14.0,109.999
+asus,Windows,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,17.999
+hp,Free Dos,Intel Core i5,13.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,16.1,35.999
+lenovo,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,0.0,60.0,M1 7 Çekirdekli,15.6,15.999
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce MX350,15.6,16.7503
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,500.0,32.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,34.299
+acer,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce MX550,15.6,17.99
+apple,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,0.0,60.0,M1 7 Çekirdekli,13.3,39.9
+asus,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,24.349
+lenovo,Free Dos,Intel Celeron,1.0,1920 x 1080,128.0,4.0,256.0,60.0,Intel UHD Graphics 600,14.0,8.499
+asus,Windows,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,12.999
+asus,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,17.999
+lenovo,Free Dos,Intel Core i3,11.0,1920 x 1080,256.0,4.0,256.0,60.0,Intel HD Graphics,15.6,9.549
+casper,Windows,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,19.199
+lenovo,Free Dos,AMD Ryzen 7,12.0,1920 x 1080,1.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,13.999
+casper,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,64.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,39.899
+monster,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,32.0,0.0,120.0,Intel Iris Graphics,15.6,23.199
+hp,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 4060,16.1,50.999
+lenovo,Windows,Intel Core i3,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Belirtilmemiş,15.6,10.499
+casper,Free Dos,Intel Core i7,12.0,1920 x 1080,500.0,32.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,36.799
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,120.0,Nvidia GeForce RTX3060,15.6,29.639
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,512.0,60.0,Intel UHD Graphics,14.0,14.499
+asus,Windows,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,24.4334
+hp,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,13.5999
+toshiba,Windows,Intel Core i7,6.0,3840 x 2160,256.0,8.0,256.0,60.0,Paylaşımlı,12.5,33.4823
+hp,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,14.0,21.382
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,10.5921
+dell,Free Dos,Intel Core i3,11.0,1366 x 768,256.0,16.0,0.0,60.0,Intel UHD Graphics,14.0,10.1961
+asus,Free Dos,Intel Celeron,13.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,8.659
+asus,Free Dos,Intel Celeron,5.0,1366 x 768,256.0,16.0,0.0,60.0,Intel UHD Graphics 600,15.6,10.9881
+dell,Ubuntu,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,15.679
+msi,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,40.5023
+acer,Mac Os,Apple M1,13.0,2560 x 1600,128.0,16.0,0.0,60.0,M1 7 Çekirdekli,15.6,7.989
+msi,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,25.499
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce GTX 1650,15.6,25.999
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,12.6111
+hp,Free Dos,Intel Core i5,13.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel XE Graphics,15.6,15.499
+hp,Windows,Intel Core i7,13.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4060,16.1,48.2949
+hp,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 3050,16.1,33.999
+acer,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,27.999
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,15.3931
+lenovo,Free Dos,AMD Ryzen 3,5.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,9.7179
+lenovo,Windows,AMD Ryzen 5,5.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,14.0,12.9988
+msi,Free Dos,Intel Core i7,11.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,15.6,30.734
+dell,Linux,Intel Core i5,13.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce RTX 3050,15.6,28.409
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,512.0,32.0,0.0,60.0,AMD Radeon Graphics,15.6,12.3999
+asus,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,16.999
+asus,Free Dos,Intel Core i9,13.0,1920 x 1200,1.0,32.0,0.0,120.0,Nvidia GeForce RTX 4050,16.0,49.199
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce RTX 3050,15.6,24.9311
+asus,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,25.499
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,24.0,0.0,60.0,Nvidia GeForce MX330,14.0,18.899
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,15.6999
+honor,Windows,Intel Core i3,10.0,1920 x 1080,256.0,8.0,256.0,60.0,Intel UHD Graphics 600,15.6,14.5
+huawei,Windows,Intel Core i5,13.0,1920 x 1080,512.0,16.0,0.0,60.0,Belirtilmemiş,16.0,24.999
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,120.0,Nvidia GeForce RTX3060,15.6,26.999
+hp,Free Dos,Intel Core i5,13.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,16.1,34.3551
+msi,Windows,Intel Core i9,13.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4070,17.3,73.779
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,512.0,120.0,Nvidia GeForce RTX 3050 Ti,15.6,24.799
+asus,Windows,Intel Celeron,1.0,1920 x 1080,128.0,4.0,0.0,60.0,Dahili Ekran Kartı,15.6,7.199
+lenovo,Free Dos,Intel Core i7,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,19.999
+asus,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,30.999
+dell,Ubuntu,Intel Core i3,11.0,1920 x 1080,250.0,12.0,1.0,60.0,Intel UHD Graphics,14.0,9.999
+hp,Free Dos,Intel Xeon,13.0,1920 x 1080,256.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,12.25
+asus,Free Dos,AMD Ryzen 3,3.0,1920 x 1080,256.0,4.0,0.0,60.0,Paylaşımlı,15.6,10.999
+lenovo,Free Dos,Intel Core i7,11.0,2560 x 1440,512.0,16.0,0.0,165.0,Nvidia GeForce RTX3060,15.6,36.999
+acer,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,12.2751
+asus,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,32.999
+acer,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,256.0,60.0,Nvidia GeForce MX450,15.6,14.999
+hp,Free Dos,Intel Core M,13.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,13.3935
+acer,Free Dos,Intel Core i5,13.0,1920 x 1080,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,15.699
+hp,Windows,Intel Core i7,10.0,1920 x 1080,512.0,8.0,512.0,60.0,Intel HD Graphics 610,13.3,27.499
+monster,Free Dos,Intel Core i7,13.0,2560 x 1600,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 4070,16.0,59.999
+hp,Free Dos,Intel Core i5,13.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,16.1,35.199
+asus,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX3060,15.6,40.549
+hp,Free Dos,AMD Ryzen 7,7.0,2560 x 1440,1.0,32.0,0.0,240.0,Nvidia GeForce RTX 4070,16.1,53.899
+asus,,,,,,,,,,,36.1
+lenovo,Windows,Intel Celeron,13.0,1366 x 768,128.0,4.0,0.0,60.0,Belirtilmemiş,14.0,7.499
+casper,Free Dos,Intel Core i9,13.0,2560 x 1600,2.0,64.0,0.0,165.0,Nvidia GeForce RTX 4070,16.0,69.999
+lenovo,Free Dos,Intel Core i3,11.0,1920 x 1080,512.0,12.0,0.0,120.0,Intel UHD Graphics,15.6,10.8999
+hp,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel XE Graphics,15.6,10.999
+apple,,,,,,,,,,,50.79
+lenovo,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,17.999
+lenovo,Windows,AMD Ryzen 7,5.0,1920 x 1200,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,14.0,26.999
+hp,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4050,16.1,35.499
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,500.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,11.949
+asus,Windows,Intel Core i7,13.0,1920 x 1200,512.0,16.0,500.0,165.0,Nvidia GeForce RTX 4060,16.0,56.999
+lenovo,Windows,Intel Core i9,11.0,3840 x 2160,1.0,32.0,0.0,60.0,Nvidia RTX A4000,17.3,178.909
+asus,Windows,Intel Celeron,13.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel UHD Graphics 600,14.0,10.1961
+asus,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,33.959
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,13.3649
+acer,Free Dos,Intel Core i5,12.0,1920 x 1080,2.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,15.6,30.0
+lenovo,Windows,Intel Core i5,12.0,2880 x 1800,512.0,16.0,512.0,60.0,Intel Iris Graphics,14.0,37.999
+asus,Windows,Intel Core i5,12.0,2880 x 1800,0.0,16.0,512.0,60.0,Intel Iris Graphics,14.0,46.2
+dell,Free Dos,Intel Core i5,13.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,12.199
+hp,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,16.1,36.999
+ilife,Windows,Intel Core i7,7.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,15.6481
+asus,Free Dos,Intel Celeron,,1920 x 1080,128.0,4.0,,,Intel UHD Graphics 600,15.6,9.0
+acer,Windows,Intel Core i3,3.0,1920 x 1080,128.0,4.0,0.0,60.0,Intel UHD Graphics,15.6,7.999
+apple,Mac Os,Apple M2,2.0,2880 x 1800,512.0,8.0,512.0,120.0,M2 10 Çekirdekli,15.0,59.49
+apple,Mac Os,M2,13.0,2560 x 1600,256.0,16.0,0.0,60.0,M2 8 Çekirdekli,13.6,51.999
+hp,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,13.3,31.149
+lenovo,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,500.0,16.0,0.0,120.0,Nvidia GeForce RTX 4050,15.6,31.999
+acer,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,12.499
+asus,Windows,Intel Core i5,10.0,1920 x 1080,512.0,8.0,512.0,60.0,Intel Iris Graphics,13.3,30.199
+casper,Windows,AMD Ryzen 5,5.0,1920 x 1080,500.0,8.0,500.0,60.0,AMD Radeon Graphics,15.6,13.499
+asus,Free Dos,AMD A9,10.0,1366 x 768,256.0,4.0,,,AMD Radeon R5,15.6,8.222
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,9.7011
+acer,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,23.65
+lenovo,Windows,Intel Core i5,11.0,1366 x 768,256.0,8.0,0.0,60.0,Nvidia GeForce MX330,14.0,13.8818
+monster,Free Dos,Intel Core i7,13.0,2560 x 1600,1.0,32.0,0.0,240.0,Nvidia GeForce RTX 4060,17.0,77.099
+lenovo,Windows,AMD Ryzen 5,11.0,1920 x 1080,512.0,8.0,512.0,165.0,AMD Radeon Graphics,15.6,13.929
+hp,Windows,AMD Ryzen 7,7.0,1920 x 1080,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,22.199
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,120.0,Nvidia GeForce GTX 1650,15.6,24.4593
+hp,Free Dos,Intel Core i7,13.0,2560 x 1440,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 4070,17.3,60.999
+dell,Linux,Intel Core i5,13.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce RTX 4050,15.6,31.249
+monster,Free Dos,Intel Core i5,12.0,1920 x 1080,500.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,30.899
+hp,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,512.0,16.0,0.0,90.0,AMD Radeon Graphics,15.6,18.449
+msi,Windows,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,17.3,63.999
+dell,Free Dos,Intel Core i5,12.0,1920 x 1080,256.0,8.0,0.0,120.0,Intel UHD Graphics,15.6,13.299
+dell,Free Dos,Intel Core i9,13.0,2560 x 1600,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 4060,16.0,56.999
+monster,Free Dos,Intel Core i5,13.0,1920 x 1080,500.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,17.3,34.6573
+acer,Windows,Intel Core i5,11.0,1920 x 1080,1.0,24.0,1.0,144.0,Nvidia GeForce RTX 3050,15.6,28.0
+monster,Free Dos,Intel Core i9,13.0,2560 x 1600,2.0,64.0,0.0,240.0,Nvidia GeForce RTX 4070,17.0,97.899
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,500.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,13.0171
+dell,Windows,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,26.7
+lenovo,Windows,Intel Core i5,13.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,18.499
+msi,Windows,Intel Core i9,13.0,2560 x 1600,2.0,64.0,0.0,165.0,Nvidia GeForce RTX 4070,17.0,142.659
+msi,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX3060,17.3,41.999
+asus,Free Dos,Intel Core i5,5.0,1920 x 1080,256.0,8.0,256.0,60.0,Intel UHD Graphics,16.0,13.249
+acer,Free Dos,AMD Ryzen 3,3.0,1920 x 1080,256.0,4.0,0.0,60.0,AMD Radeon Graphics,15.6,8.2999
+asus,Windows,Intel Core i9,13.0,2880 x 1800,1.0,32.0,0.0,120.0,Nvidia GeForce RTX 4060,14.5,124.8281
+monster,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,120.0,Intel Iris Graphics,15.6,26.499
+lenovo,Windows,Intel Core i7,10.0,1920 x 1080,512.0,16.0,0.0,90.0,Nvidia GeForce RTX 4050,15.6,44.999
+monster,Windows,Intel Core i7,11.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,15.6,35.499
+asus,Windows,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,18.799
+dell,Free Dos,Intel Core i3,11.0,1366 x 768,512.0,8.0,0.0,60.0,Intel HD Graphics,14.0,9.6785
+hp,Windows,Intel Core i5,12.0,1920 x 1080,1.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,20.0
+asus,Windows,Intel Celeron,13.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel UHD Graphics 600,14.0,9.5521
+apple,,,,,,,,,,,53.999
+apple,Mac Os,M2,13.0,2560 x 1600,512.0,16.0,0.0,60.0,M2 10 Çekirdekli,13.6,59.999
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel XE Graphics,15.6,16.5999
+apple,Mac Os,M2,13.0,3024 x 1964,1.0,32.0,0.0,60.0,Dahili Ekran Kartı,14.0,103.999
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,256.0,90.0,Nvidia GeForce MX330,15.6,15.79
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,13.499
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,9.9481
+hp,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,32.0,0.0,60.0,Dahili Ekran Kartı,15.6,14.099
+asus,Free Dos,Intel Core i3,1.0,1920 x 1080,256.0,4.0,0.0,60.0,Intel UHD Graphics,15.6,9.499
+msi,Free Dos,Intel Core i9,13.0,2560 x 1600,1.0,32.0,0.0,240.0,Nvidia GeForce RTX 4090,17.0,123.479
+microsoft,Windows,Intel Core i5,12.0,2880 x 1800,256.0,8.0,0.0,120.0,Intel Iris Graphics,13.0,45.385
+asus,Windows,AMD Ryzen 7,4.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,15.6,53.3353
+hp,Free Dos,AMD Ryzen 3,5.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon R5 M530,15.6,10.179
+gigabyte,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,360.0,Nvidia GeForce RTX 4060,17.3,44.699
+casper,Windows,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,39.999
+apple,Mac Os,M2,13.0,3024 x 1964,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,14.0,73.49
+monster,Windows,Intel Core i7,13.0,2560 x 1600,1.0,64.0,0.0,165.0,Nvidia GeForce RTX 4070,16.0,70.999
+msi,Windows,Intel Core i9,13.0,2560 x 1600,4.0,64.0,0.0,240.0,Nvidia GeForce RTX 4070,17.3,95.499
+asus,Free Dos,AMD Ryzen 7,3.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,14.2551
+dell,Linux,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,120.0,Intel Iris Graphics,15.6,16.9175
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,256.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,11.299
+monster,Windows,Intel Core i7,13.0,2560 x 1600,1.0,32.0,0.0,240.0,Nvidia GeForce RTX 4060,17.0,72.999
+apple,Mac Os,Intel Core i9,13.0,3072 x 1920,1.0,16.0,0.0,60.0,Dahili Ekran Kartı,16.0,64.999
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,2.0,32.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,37.499
+asus,Windows,Intel Core i7,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,13.0,47.999
+acer,Windows,Intel Core i5,11.0,1920 x 1080,1.0,32.0,500.0,144.0,Nvidia GeForce RTX 3050,15.6,29.0
+casper,Free Dos,Intel Core i7,12.0,1920 x 1080,500.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,35.599
+casper,Free Dos,Intel Core i9,13.0,2560 x 1600,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 4070,16.0,63.499
+msi,Windows,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,34.6346
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,120.0,Nvidia GeForce RTX 3050 Ti,15.6,24.399
+lenovo,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,14.499
+apple,Mac Os,Apple M1,13.0,2560 x 1600,256.0,16.0,256.0,60.0,M1 7 Çekirdekli,13.0,37.14
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,500.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,16.499
+asus,Free Dos,Intel Core i9,13.0,2560 x 1600,1.0,16.0,0.0,240.0,Nvidia GeForce RTX 4070,18.0,73.399
+monster,,,,,,,,,,,20.499
+dell,,,,,,,,,,,22.249
+i-life-digital,Windows,Intel Core i7,7.0,1920 x 1080,512.0,8.0,,,Intel HD Graphics,15.6,16.4754
+asus,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,11.199
+apple,Mac Os,Apple M2,2.0,2880 x 1620,512.0,8.0,512.0,120.0,M2 10 Çekirdekli,15.0,59.494
+lenovo,Free Dos,Intel Core i7,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,19.9817
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,512.0,8.0,0.0,60.0,Nvidia GeForce MX330,14.0,13.091
+hp,,,,,512.0,,0.0,,,15.6,24.999
+dell,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,13.737
+msi,Windows,Intel Core i7,12.0,1920 x 1080,1.0,64.0,0.0,240.0,Nvidia GeForce RTX3060 Max-P,15.6,52.7
+hp,Free Dos,Intel Core M,13.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,11.949
+asus,,,,,,,,,,,37.0503
+lenovo,Windows,Intel Core i5,12.0,2560 x 1600,1.0,8.0,0.0,60.0,Intel Iris Graphics,16.0,28.8508
+hp,Windows,Intel Core i7,13.0,1920 x 1080,1.0,16.0,0.0,60.0,Nvidia GeForce RTX 3050,15.6,46.899
+asus,Windows,AMD Ryzen 5,4.0,1920 x 1080,512.0,8.0,500.0,144.0,Nvidia GeForce RTX 3050 Ti,15.6,29.5
+lenovo,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce MX550,15.6,25.299
+asus,Free Dos,Intel Core i3,12.0,1920 x 1080,256.0,12.0,0.0,60.0,Intel UHD Graphics,15.6,10.9999
+lenovo,Windows,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,16.499
+asus,Windows,Intel Core i5,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel HD Graphics,15.6,14.599
+dell,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce MX350,15.6,17.7234
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,24.0,1.0,60.0,Nvidia GeForce MX350,15.6,18.1448
+apple,Mac Os,M2,13.0,3456 x 2234,1.0,16.0,0.0,60.0,Belirtilmemiş,16.0,97.99
+lenovo,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,48.985
+lenovo,Free Dos,AMD Ryzen 3,5.0,1920 x 1080,256.0,12.0,0.0,60.0,AMD Radeon Graphics,15.6,10.0763
+asus,Free Dos,Intel Core i9,13.0,3200 x 2000,1.0,32.0,0.0,120.0,Nvidia GeForce RTX 4060,16.0,74.329
+lenovo,Windows,Intel Core i7,12.0,2560 x 1600,512.0,16.0,512.0,60.0,Intel Iris Graphics,12.4,34.899
+monster,Windows,Intel Core i7,12.0,1920 x 1080,1.0,64.0,0.0,144.0,Nvidia GeForce RTX 4060,17.3,52.699
+acer,Free Dos,MediaTek P60T,5.0,4480 x 2520,64.0,36.0,500.0,360.0,Intel XE Graphics,18.0,34.899
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,1.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.3831
+lenovo,Free Dos,AMD Ryzen 7,12.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,13.499
+asus,Windows,MediaTek P60T,5.0,4480 x 2520,32.0,36.0,500.0,90.0,Nvidia GeForce MX450,18.0,10.8505
+asus,Free Dos,Intel Core i3,12.0,1920 x 1080,256.0,12.0,0.0,60.0,Dahili Ekran Kartı,15.6,11.069
+lenovo,Free Dos,Intel Core i3,11.0,1920 x 1080,256.0,4.0,0.0,60.0,Intel UHD Graphics,15.6,9.999
+hp,Free Dos,AMD,1.0,1280 x 800,128.0,1.0,250.0,60.0,Dahili Ekran Kartı,14.0,12.8409
+msi,Free Dos,Intel Core i9,13.0,2560 x 1600,2.0,32.0,0.0,240.0,Nvidia GeForce RTX 4080,17.0,98.399
+lenovo,Windows,MediaTek P60T,5.0,4480 x 2520,32.0,36.0,500.0,90.0,Nvidia GeForce MX450,18.0,13.313
+asus,Free Dos,AMD Ryzen 9,7.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4070,15.6,53.8189
+asus,,,,,512.0,,0.0,,,15.6,38.399
+lenovo,Windows,Intel Core i7,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,21.148
+acer,Windows,Intel Core i7,12.0,1920 x 1200,512.0,8.0,0.0,60.0,Intel Iris Graphics,14.0,28.799
+asus,Windows,Intel Core i7,11.0,1920 x 1080,512.0,16.0,0.0,60.0,RTX A4500,14.0,22.999
+casper,Free Dos,Intel Core i3,11.0,1920 x 1080,500.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,13.699
+asus,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,12.899
+hp,Windows,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,29.999
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,512.0,16.0,1.0,60.0,Nvidia GeForce MX330,14.0,14.6357
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,24.0,0.0,60.0,AMD Radeon Graphics,15.6,14.099
+acer,Free Dos,AMD Ryzen 3,7.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,10.499
+hp,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel XE Graphics,15.6,11.549
+acer,,,,,,,,,,,11.499
+dell,Ubuntu,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,14.5
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel XE Graphics,15.6,15.1419
+casper,,,,,,,,,,,24.599
+acer,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,10.75
+asus,Free Dos,Intel Core i5,,1920 x 1080,256.0,4.0,,,Nvidia GeForce MX130,15.6,18.48
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,256.0,12.0,0.0,60.0,Nvidia GeForce MX330,14.0,12.9841
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,512.0,12.0,0.0,60.0,Nvidia GeForce MX330,14.0,13.4504
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,256.0,12.0,0.0,60.0,Dahili Ekran Kartı,15.6,13.9999
+lenovo,Free Dos,Intel Core i5,5.0,1366 x 768,256.0,8.0,500.0,60.0,Belirtilmemiş,15.6,14.9999
+hp,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,12.499
+dell,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,1.0,120.0,AMD Radeon Graphics,15.6,16.824
+lenovo,Free Dos,Intel Core i3,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,14.0,10.99
+hp,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce MX550,15.6,19.9999
+acer,Windows,Intel Core i3,12.0,1920 x 1080,256.0,4.0,0.0,60.0,Intel UHD Graphics,15.6,9.2551
+acer,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,165.0,Nvidia GeForce RTX 4060,15.6,36.999
+acer,Free Dos,Intel Core i5,12.0,2560 x 1440,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,16.999
+hp,Windows,MediaTek P60T,5.0,4480 x 2520,32.0,36.0,500.0,90.0,Nvidia GeForce MX450,18.0,31.9853
+asus,Free Dos,Intel Core i7,13.0,1920 x 1200,1.0,16.0,0.0,165.0,Nvidia GeForce RTX 4080,16.0,72.099
+casper,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,19.499
+lenovo,Windows,Intel Celeron,1.0,1366 x 768,1.0,4.0,0.0,60.0,Intel UHD Graphics 600,15.6,9.3678
+lenovo,Windows,Intel Core i7,12.0,2560 x 1440,1.0,16.0,1.0,165.0,Nvidia GeForce RTX 3060 Ti,15.6,38.999
+acer,Windows,Intel Core i3,12.0,1920 x 1080,256.0,4.0,0.0,60.0,Intel UHD Graphics,15.6,9.149
+hp,Windows,Intel Core i5,13.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,16.1,36.499
+msi,Windows,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel XE Graphics,14.0,39.8435
+lenovo,Windows,Intel Core i3,13.0,Belirtilmemiş,256.0,4.0,0.0,60.0,Belirtilmemiş,15.6,9.65
+acer,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,15.6,25.753
+asus,Free Dos,Intel Celeron,13.0,1920 x 1080,1.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,8.899
+lenovo,Free Dos,AMD Athlon,7.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,9.799
+monster,Free Dos,Intel Core i7,12.0,1920 x 1080,500.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,38.699
+huawei,Free Dos,Intel Atom,1.0,1280 x 800,120.0,1.0,0.0,60.0,AMD Radeon R5,10.0,43.499
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel XE Graphics,15.6,14.5999
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,17.999
+lenovo,Free Dos,Intel Core i3,13.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,15.0,11.199
+hp,Free Dos,Intel Core i7,13.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,20.999
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,11.5321
+dell,Windows,AMD,13.0,Belirtilmemiş,256.0,8.0,256.0,60.0,Dahili Ekran Kartı,15.6,14.2958
+dell,Windows,Intel Core i5,11.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,14.449
+msi,Free Dos,Intel Core i9,13.0,2560 x 1600,1.0,32.0,0.0,240.0,Nvidia GeForce RTX 4080,16.0,96.254
+apple,Mac Os,Apple M2,2.0,2880 x 1800,256.0,8.0,256.0,120.0,M2 10 Çekirdekli,15.0,47.94
+apple,Mac Os,Apple M1,13.0,2560 x 1600,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,13.3,42.0
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,15.349
+lenovo,Free Dos,AMD,1.0,1280 x 800,128.0,1.0,250.0,60.0,Dahili Ekran Kartı,14.0,53.63
+asus,Free Dos,AMD Ryzen 9,7.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4070,15.6,51.7415
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel XE Graphics,15.6,14.3618
+monster,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,17.3,40.999
+asus,Free Dos,AMD Ryzen 5,4.0,1920 x 1080,256.0,8.0,256.0,60.0,AMD,15.6,16.999
+acer,Windows,Intel Celeron,5.0,1920 x 1080,128.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,8.799
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,500.0,120.0,Nvidia GeForce GTX 1650,15.6,24.999
+acer,Windows,Intel Core i5,11.0,1920 x 1280,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,12.75
+hp,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,16.1,34.999
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,500.0,16.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,25.499
+huawei,Windows,Intel Core i5,10.0,1920 x 1080,512.0,8.0,512.0,60.0,Intel UHD Graphics 620,14.0,19.999
+acer,Windows,Intel Core i7,11.0,1920 x 1080,512.0,16.0,0.0,60.0,RTX A4500,15.6,22.999
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,500.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,15.499
+apple,,,,,,,,,,,85.899
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,240.0,4.0,0.0,60.0,Dahili Ekran Kartı,15.6,20.682
+asus,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,512.0,60.0,Intel UHD Graphics,14.0,19.99
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,14.0,17.999
+asus,Free Dos,AMD Ryzen 5,4.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,14.0,12.899
+asus,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,14.0,19.999
+asus,Free Dos,Intel Core i7,13.0,1920 x 1200,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 4060,16.0,55.6207
+asus,Free Dos,Intel Core i7,13.0,1920 x 1200,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 4050,16.0,51.0977
+lenovo,Windows,Intel Pentium,5.0,1920 x 1200,4.0,8.0,2.0,90.0,Dahili Ekran Kartı,15.6,21.999
+acer,Free Dos,Intel Core i9,13.0,2560 x 1600,1.0,24.0,0.0,165.0,Nvidia GeForce RTX 4070,16.0,58.999
+asus,Windows,Intel Core i7,13.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,13.0,44.999
+hp,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,16.1,29.4999
+lenovo,Free Dos,Intel Pentium,13.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics 600,15.6,10.995
+lenovo,Windows,Intel Core i7,13.0,1920 x 1200,512.0,16.0,0.0,60.0,Intel Iris Graphics,14.0,47.999
+casper,Windows,Intel Core i5,12.0,1920 x 1080,500.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,26.799
+asus,Windows,Intel Celeron,13.0,1920 x 1080,128.0,8.0,0.0,60.0,Intel UHD Graphics,14.0,8.999
+samsung,Chrome OS,AMD A6,13.0,4480 x 2520,32.0,3.0,32.0,240.0,RTX3050Ti Max-Q,10.0,3.999
+dell,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,12.599
+lenovo,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,24.0,0.0,60.0,Intel XE Graphics,15.6,22.849
+apple,Mac Os,M2,13.0,2560 x 1600,512.0,8.0,512.0,144.0,M2 8 Çekirdekli,13.3,49.98
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,11.2851
+honor,Windows,AMD Ryzen 5,13.0,1920 x 1080,512.0,16.0,512.0,60.0,AMD Radeon Graphics,16.1,24.999
+msi,Windows,Intel Core i7,12.0,1920 x 1080,0.0,16.0,512.0,60.0,GTX 1650 Max-q,14.0,32.55
+asus,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,24.719
+everest,,,,,,,,,,,10.2951
+asus,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,17.499
+asus,Windows,Intel Core i5,12.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel XE Graphics,15.6,13.999
+dell,Free Dos,AMD Ryzen 7,10.0,1920 x 1200,512.0,8.0,500.0,60.0,Dahili Ekran Kartı,15.6,12.999
+hp,Free Dos,AMD Ryzen 3,5.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,12.4
+asus,Windows,Intel Celeron,4.0,1920 x 1080,128.0,8.0,0.0,60.0,Intel UHD Graphics,14.0,8.749
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,24.0,0.0,60.0,Intel Iris Graphics,15.6,16.0371
+hp,Windows,Intel Core i5,12.0,1920 x 1080,512.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,20.6
+hp,Free Dos,Intel Core M,13.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,27.773
+hp,Windows,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Belirtilmemiş,15.6,21.399
+asus,Free Dos,AMD Ryzen 9,7.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4070,15.6,54.999
+asus,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,36.6606
+monster,,,,,500.0,,0.0,,,15.6,30.699
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,14.6109
+acer,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,26.199
+hp,Windows,Intel Core i5,13.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,14.0,27.597
+lenovo,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,256.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,12.2999
+lenovo,Windows,Intel Core i3,11.0,1920 x 1080,0.0,4.0,256.0,60.0,Intel UHD Graphics,15.6,9.699
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,16.0,1.0,60.0,Nvidia GeForce MX350,15.6,16.7503
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,13.0171
+asus,Free Dos,Intel Core i9,13.0,2560 x 1600,1.0,16.0,0.0,165.0,Nvidia GeForce RTX 4050,13.4,62.999
+lenovo,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,1.0,16.0,0.0,120.0,Dahili Ekran Kartı,15.6,30.5707
+asus,Windows,Intel Core i7,13.0,3200 x 2000,1.0,32.0,1.0,120.0,Nvidia GeForce RTX 4070,16.0,79.251
+asus,Windows,Intel Core i3,11.0,1920 x 1080,1.0,12.0,0.0,60.0,Intel UHD Graphics,15.6,12.0
+lenovo,Free Dos,Intel Core i5,11.0,1366 x 768,256.0,12.0,1.0,60.0,Nvidia GeForce MX330,14.0,13.8459
+hp,Windows,AMD Ryzen 3,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,13.6
+casper,Free Dos,Intel Core i5,11.0,1920 x 1080,500.0,16.0,500.0,60.0,Intel Iris Graphics,15.6,15.39
+acer,Windows,Intel Celeron,13.0,1920 x 1080,128.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,8.999
+apple,Mac Os,M2,2.0,2560 x 1600,256.0,8.0,512.0,144.0,M2 8 Çekirdekli,13.0,42.99
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,15.799
+asus,Free Dos,AMD Ryzen 7,5.0,1920 x 1200,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,16.0,19.929
+acer,Windows,Intel Core i3,3.0,1920 x 1080,256.0,4.0,0.0,60.0,Intel UHD Graphics,15.6,9.499
+lenovo,,,,,,,,,,,15.599
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,256.0,16.0,1.0,60.0,Nvidia GeForce MX330,14.0,14.1684
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,1.0,20.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.7426
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,1.0,32.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.4965
+asus,Free Dos,AMD Ryzen 7,6.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,36.579
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,500.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,30.599
+monster,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,34.899
+asus,Windows,AMD Ryzen 3,3.0,1366 x 768,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,9.9981
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Nvidia GeForce RTX 3050 Ti,15.6,26.3999
+hp,Free Dos,Intel Core i7,13.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,16.1,34.999
+asus,Free Dos,Intel Core i3,11.0,1920 x 1080,256.0,12.0,0.0,60.0,Intel UHD Graphics,15.6,10.3941
+dell,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,1.0,32.0,0.0,120.0,AMD Radeon Graphics,15.6,17.8213
+lenovo,Free Dos,AMD Ryzen 5,6.0,2560 x 1600,512.0,16.0,0.0,60.0,Nvidia GeForce RTX3060,16.0,29.999
+lenovo,Windows,Intel Core i7,13.0,1920 x 1080,1.0,32.0,0.0,60.0,Nvidia GeForce RTX3060,16.0,59.999
+asus,Windows,Intel Core i7,12.0,2880 x 1620,1.0,16.0,0.0,120.0,Nvidia GeForce RTX3060,15.6,44.95
+asus,Free Dos,Intel Core i3,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,12.3021
+acer,Windows,AMD Ryzen 3,7.0,1920 x 1080,1.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,15.149
+asus,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,35.1
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,12.0,0.0,60.0,Dahili Ekran Kartı,15.6,15.2999
+dell,Linux,Intel Core i7,12.0,1920 x 1080,2.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,24.4352
+asus,Free Dos,Intel Core i5,13.0,1920 x 1200,1.0,16.0,0.0,120.0,Nvidia GeForce RTX 4050,16.0,34.999
+lenovo,Windows,Intel Core i5,12.0,1920 x 1080,512.0,40.0,0.0,60.0,Dahili Ekran Kartı,14.0,29.3379
+msi,Windows,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4070,15.6,53.87
+asus,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,28.999
+asus,Windows,Intel Core i7,13.0,2880 x 1800,1.0,16.0,0.0,60.0,Intel XE Graphics,13.3,57.179
+asus,Free Dos,Intel Core i3,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,10.7999
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce MX350,15.6,18.5999
+dell,Free Dos,Intel Core i7,13.0,1920 x 1080,512.0,32.0,0.0,165.0,Nvidia GeForce RTX 4060,15.6,45.425
+asus,Windows,Intel Core i5,10.0,1920 x 1200,512.0,8.0,512.0,90.0,Nvidia GeForce RTX 2050,16.0,24.999
+asus,Windows,Intel Core i3,11.0,1920 x 1080,128.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,10.2937
+asus,Windows 11,Intel Core i3,11.0,1366 x 768,256.0,4.0,256.0,60.0,Intel UHD Graphics 600,15.6,10.599
+asus,Windows,Intel Core i9,12.0,3840 x 2160,1.0,32.0,0.0,60.0,Nvidia GeForce RTX 3070Ti,15.6,94.105
+lenovo,Windows,Intel Celeron,1.0,1920 x 1080,128.0,4.0,0.0,60.0,Intel UHD Graphics,15.6,7.199
+acer,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,14.0965
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,1.0,32.0,0.0,60.0,Dahili Ekran Kartı,15.6,15.2999
+lenovo,Free Dos,Intel Core i5,11.0,1366 x 768,512.0,32.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.8864
+casper,Free Dos,Intel Core i7,12.0,1920 x 1080,500.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,27.599
+dell,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,16.0,0.0,60.0,Nvidia GeForce MX350,15.6,15.7226
+hp,Free Dos,Intel Core i3,11.0,1920 x 1080,256.0,4.0,0.0,60.0,Intel HD Graphics,15.6,13.499
+acer,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce MX350,15.6,21.0
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel XE Graphics,15.6,14.3541
+hp,Free Dos,Intel Core i9,13.0,2560 x 1440,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 4090,17.3,93.799
+dell,Free Dos,Intel Core i3,11.0,1366 x 768,512.0,4.0,0.0,60.0,Intel UHD Graphics,14.0,9.3941
+asus,Free Dos,Intel Core i5,13.0,1920 x 1080,1.0,40.0,0.0,60.0,Intel XE Graphics,15.6,21.8999
+dell,Free Dos,Intel Core i3,11.0,1366 x 768,128.0,8.0,0.0,60.0,Intel UHD Graphics,14.0,8.8909
+hp,Windows,Intel Core i5,11.0,1920 x 1080,2.0,64.0,0.0,60.0,Dahili Ekran Kartı,14.0,36.7066
+acer,Linux,Intel Core i3,12.0,1920 x 1080,128.0,4.0,0.0,60.0,Intel Iris Graphics,15.6,8.499
+casper,Free Dos,Intel Core i7,12.0,1920 x 1080,2.0,64.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,34.299
+apple,Mac Os,Intel Core i9,13.0,3072 x 1920,1.0,16.0,0.0,60.0,Dahili Ekran Kartı,16.0,99.999
+apple,Mac Os,Apple M1 Max,13.0,2880 x 1800,1.0,32.0,0.0,120.0,Dahili Ekran Kartı,16.0,99.9
+lenovo,Windows,AMD Ryzen 5,11.0,1920 x 1200,512.0,8.0,0.0,120.0,Nvidia GeForce RTX 3050,16.0,28.649
+hp,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 3090Ti,16.1,36.799
+asus,Windows,AMD Ryzen 3,3.0,1366 x 768,256.0,4.0,0.0,60.0,AMD Radeon Graphics,15.6,9.1071
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,24.0,0.0,60.0,Intel UHD Graphics,15.6,16.899
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,256.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,12.6999
+asus,Free Dos,Intel Core i7,13.0,1920 x 1200,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 4060,16.0,54.823
+lenovo,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,11.499
+hp,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4060,16.1,45.3544
+toshiba,Windows,Intel Core i7,7.0,1920 x 1080,512.0,8.0,,,Paylaşımlı,14.0,47.9999
+casper,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,36.199
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,15.617
+lenovo,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,19.74
+dell,Free Dos,Intel Core i3,11.0,1366 x 768,256.0,16.0,0.0,60.0,Intel UHD Graphics,14.0,9.5194
+lenovo,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,26.729
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,256.0,8.0,0.0,60.0,Nvidia GeForce GTX 1650,15.6,24.7491
+asus,Windows,Intel Core i5,11.0,1920 x 1080,0.0,8.0,256.0,90.0,Intel UHD Graphics,15.6,13.999
+apple,Mac Os,M2,2.0,2560 x 1600,512.0,8.0,512.0,120.0,M2 8 Çekirdekli,13.3,49.0
+dell,Windows,AMD,13.0,Belirtilmemiş,256.0,8.0,256.0,60.0,Dahili Ekran Kartı,14.0,13.4864
+acer,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,12.249
+asus,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,13.999
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,13.499
+lenovo,Free Dos,Intel Core i3,12.0,1920 x 1080,512.0,8.0,512.0,60.0,Intel UHD Graphics,14.0,11.899
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,64.0,0.0,60.0,Intel Iris Graphics,15.6,14.5021
+dell,Windows,Intel Core i9,13.0,2560 x 1600,2.0,64.0,0.0,165.0,Nvidia GeForce RTX 4080,18.0,138.331
+lenovo,Free Dos,AMD Ryzen 7,12.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,12.499
+monster,Windows,Intel Core i9,13.0,2560 x 1600,1.0,32.0,0.0,240.0,Nvidia GeForce RTX 4090,17.0,125.999
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,16.0861
+lenovo,Windows,Intel Core i5,11.0,1366 x 768,256.0,24.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.0357
+lenovo,Windows,Intel Core i5,11.0,1366 x 768,256.0,24.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.1739
+lenovo,Free Dos,Intel Core i5,11.0,1366 x 768,2.0,16.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.7886
+lenovo,Free Dos,Intel Core i5,11.0,1366 x 768,2.0,24.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.3997
+asus,Windows,Intel Core i7,13.0,3200 x 2000,1.0,32.0,1.0,120.0,Nvidia GeForce RTX 4060,16.0,69.205
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,24.0,0.0,60.0,Intel Iris Graphics,15.6,17.4721
+lenovo,Windows,Intel Core i5,11.0,1366 x 768,2.0,20.0,0.0,60.0,Nvidia GeForce MX330,14.0,17.901
+lenovo,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,1.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,11.499
+hp,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4050,16.1,40.999
+lenovo,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,21.299
+asus,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,26.499
+casper,Windows,Intel Core i5,13.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,39.299
+lenovo,,,,,,,,,,,9.998
+dell,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,14.5998
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.9997
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,16.0,1.0,60.0,Nvidia GeForce MX330,14.0,18.2245
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,32.0,0.0,60.0,Nvidia GeForce MX330,14.0,16.0357
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,17.183
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,32.0,0.0,60.0,Nvidia GeForce MX330,14.0,16.7527
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,8.0,0.0,60.0,Nvidia GeForce MX330,14.0,16.8605
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,12.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.2818
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,12.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.4605
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,16.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.6043
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,20.0,0.0,60.0,Nvidia GeForce MX330,14.0,17.7222
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,16.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.8605
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,2.0,24.0,0.0,60.0,Nvidia GeForce MX330,14.0,16.537
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,24.0,0.0,60.0,Nvidia GeForce MX330,14.0,16.2504
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,2.0,20.0,0.0,60.0,Nvidia GeForce MX330,14.0,16.2863
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,2.0,32.0,0.0,60.0,Nvidia GeForce MX330,14.0,17.0402
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,2.0,32.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.901
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,24.0,0.0,60.0,Nvidia GeForce MX330,14.0,17.7931
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,24.0,0.0,60.0,Nvidia GeForce MX330,14.0,16.6099
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,20.0,1.0,60.0,Nvidia GeForce MX330,14.0,18.7637
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,16.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.501
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,32.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.0043
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,16.0,1.0,60.0,Nvidia GeForce MX330,14.0,18.0458
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,17.5425
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,24.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.1111
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,16.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.0706
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,16.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.2504
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,32.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.9739
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,12.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.537
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,32.0,0.0,60.0,Nvidia GeForce MX330,14.0,16.9324
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,32.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.6144
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,32.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.7931
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,2.0,12.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.4651
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,20.0,0.0,60.0,Nvidia GeForce MX330,14.0,17.5425
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,12.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.1785
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,12.0,0.0,60.0,Nvidia GeForce MX330,14.0,17.0402
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,24.0,0.0,60.0,Nvidia GeForce MX330,14.0,16.4291
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,24.0,0.0,60.0,Nvidia GeForce MX330,14.0,18.1526
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,24.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.2919
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,24.0,1.0,60.0,Nvidia GeForce MX330,14.0,19.0144
+apple,Mac Os,M3,3.0,3024 x 1964,512.0,36.0,0.0,120.0,M3,16.0,108.399
+acer,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,1.0,32.0,0.0,360.0,Nvidia GeForce RTX 3080,17.3,59.999
+hp,Free Dos,Intel Core i5,13.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,16.1,37.999
+acer,Windows,Intel Core i3,3.0,1920 x 1080,256.0,4.0,0.0,60.0,Intel UHD Graphics,15.6,9.999
+lenovo,Free Dos,Intel Core i5,11.0,1366 x 768,256.0,24.0,0.0,60.0,Nvidia GeForce MX330,14.0,13.9178
+acer,Windows,Intel Core i3,3.0,1920 x 1080,128.0,4.0,0.0,60.0,Intel UHD Graphics,15.6,9.499
+asus,Windows,Intel Celeron,13.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,14.0,9.699
+lenovo,Windows,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,16.97
+casper,Windows,Intel Core i5,12.0,1920 x 1080,500.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,16.699
+asus,Windows,Intel Core i7,12.0,1920 x 1080,1.0,40.0,0.0,60.0,Intel UHD Graphics,15.6,26.788
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce MX350,15.6,15.499
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,14.249
+hp,Windows,AMD Ryzen 7,10.0,1920 x 1280,256.0,8.0,0.0,90.0,AMD Radeon Graphics,14.0,13.599
+lenovo,Windows,AMD,,1280 x 800,0.0,4.0,,,AMD,10.0,9.499
+acer,Windows,Intel Core i5,11.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,28.0
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,8.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.2403
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,1.0,24.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.9942
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,1.0,12.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.0606
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,512.0,12.0,1.0,60.0,Nvidia GeForce MX330,14.0,14.3122
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,256.0,20.0,1.0,60.0,Nvidia GeForce MX330,14.0,14.5279
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,512.0,20.0,1.0,60.0,Nvidia GeForce MX330,14.0,14.9942
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,16.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.4246
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,12.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.0651
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,8.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.9583
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,12.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.419
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,1.0,8.0,0.0,60.0,Nvidia GeForce MX330,14.0,13.7011
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,12.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.7066
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,512.0,8.0,1.0,60.0,Nvidia GeForce MX330,14.0,13.9537
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,512.0,24.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.3831
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,8.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.0606
+lenovo,Free Dos,Intel Core i3,11.0,1920 x 1080,1.0,4.0,1.0,60.0,Intel UHD Graphics,14.0,9.999
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,10.499
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,8.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.7066
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,12.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.5998
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.7426
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,512.0,20.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.1325
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,8.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.5279
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,256.0,24.0,1.0,60.0,Nvidia GeForce MX330,14.0,14.7785
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,12.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.1011
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.5638
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,12.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.8864
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.9223
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.3886
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,256.0,8.0,1.0,60.0,Nvidia GeForce MX330,14.0,13.4864
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,1.0,16.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.2458
+lenovo,Free Dos,Intel Core i5,11.0,1366 x 768,1.0,24.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.855
+toshiba,Windows,Intel Core i7,4.0,1600 x 900,256.0,8.0,,,Paylaşımlı,15.6,29.576
+apple,Mac Os,Apple M1 Pro,13.0,2880 x 1800,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,16.0,69.96
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,4.0,0.0,60.0,Intel HD Graphics,15.6,11.749
+acer,Windows,Intel Core i3,12.0,1920 x 1080,512.0,4.0,0.0,60.0,Intel UHD Graphics,15.6,9.549
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,24.0,0.0,60.0,Intel UHD Graphics,15.6,16.359
+lenovo,Free Dos,AMD Ryzen 3,7.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,9.9999
+hp,Windows,AMD Ryzen 5,7.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,14.86
+toshiba,Windows,Intel Core i7,,1920 x 1080,512.0,16.0,,,Paylaşımlı,15.6,49.285
+asus,Free Dos,Intel Core i5,12.0,1920 x 1200,256.0,8.0,0.0,120.0,Nvidia GeForce RTX 2050,16.0,23.999
+lenovo,Free Dos,Intel Core i3,11.0,1920 x 1080,512.0,8.0,512.0,60.0,Intel HD Graphics,15.6,11.899
+acer,Free Dos,Intel Xeon,13.0,1920 x 1080,256.0,16.0,1.0,360.0,Nvidia GeForce RTX 3050 Ti,15.6,30.8623
+asus,Windows,Intel Core i5,10.0,1920 x 1080,256.0,8.0,256.0,60.0,Intel HD Graphics 4400,15.6,16.34
+hp,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,12.999
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,256.0,12.0,0.0,60.0,AMD Radeon Graphics,15.6,10.4999
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,256.0,20.0,0.0,60.0,AMD Radeon Graphics,15.6,11.099
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,16.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.8919
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,12.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.6762
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,16.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.7831
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,512.0,32.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.7471
+monster,Windows,Intel Core i7,11.0,1920 x 1080,500.0,16.0,,,Nvidia GeForce RTX 3050 Ti,17.3,34.299
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce RTX 3050 Ti,15.6,25.7999
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,8.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.1011
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.6403
+casper,Windows,Intel Core i5,12.0,1920 x 1080,1.0,32.0,1.0,144.0,Nvidia GeForce RTX 4060,15.6,41.499
+apple,Mac Os,Apple M1 Pro,13.0,2880 x 1800,1.0,16.0,0.0,120.0,Paylaşımlı,14.0,74.795
+lenovo,Windows,Intel Core i5,10.0,1920 x 1080,512.0,12.0,,,Nvidia GeForce MX330,15.6,16.899
+lenovo,Free Dos,Intel Core i5,12.0,2256 x 1504,500.0,8.0,512.0,60.0,AMD Radeon R5 M430,15.6,18.95
+hp,Windows,Intel Core i7,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,14.0,29.999
+hp,Free Dos,Intel Core i5,13.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,26.4811
+lenovo,Windows,Intel Core i7,11.0,1920 x 1080,256.0,32.0,0.0,165.0,Nvidia GeForce RTX 3050 Ti,15.6,39.0
+asus,Free Dos,Intel Core i5,12.0,1920 x 1200,256.0,16.0,0.0,120.0,Nvidia GeForce RTX 2050,16.0,24.699
+hp,Windows,AMD Ryzen 3,5.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,12.8
+hp,Free Dos,AMD Ryzen 3,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,13.2
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,33.999
+asus,Free Dos,Intel Core i7,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,13.3,49.999
+hp,Free Dos,AMD Ryzen 5,6.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,16.1,24.838
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,13.099
+apple,,,,,,,,,,,42.999
+asus,Free Dos,AMD Ryzen 7,6.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,15.6,33.199
+dell,Windows,Intel Core i5,11.0,1920 x 1080,256.0,8.0,1.0,60.0,Nvidia GeForce MX330,14.2,15.117
+hp,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,13.249
+lenovo,Free Dos,AMD Ryzen 3,,1920 x 1080,512.0,8.0,,,Paylaşımlı,15.6,10.0668
+hpe,Free Dos,Intel Xeon,13.0,1920 x 1280,1.0,32.0,256.0,120.0,Intel Iris Pro Graphics,15.6,12.9429
+monster,Free Dos,Intel Core i7,12.0,1920 x 1080,500.0,8.0,0.0,60.0,Intel Iris Graphics,14.1,21.699
+lenovo,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,1.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,14.899
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,8.0,0.0,120.0,Nvidia GeForce GTX 1650,15.6,23.921
+asus,Free Dos,AMD Ryzen 5,5.0,1920 x 1200,256.0,8.0,0.0,60.0,AMD Radeon Graphics,16.0,15.999
+hp,Windows,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,14.749
+acer,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,18.499
+lenovo,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,37.999
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,20.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.219
+hp,Windows,AMD Ryzen 3,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,14.1
+hp,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,19.6
+hp,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,19.0
+hp,Windows,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,19.1
+hp,Windows,Intel Core i5,12.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,19.1
+hp,Windows,Intel Core i5,12.0,1920 x 1080,512.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,20.1
+hp,Windows,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,19.6
+asus,Windows,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,25.0228
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,13.1999
+dell,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,8.0,0.0,120.0,Intel UHD Graphics,15.6,18.6653
+lenovo,,,,,,,,,,,14.344
+lenovo,Free Dos,Intel Core i5,12.0,2560 x 1600,256.0,8.0,0.0,60.0,Intel Iris Graphics,13.3,23.6601
+dell,Linux,AMD Ryzen 7,5.0,1920 x 1080,1.0,32.0,0.0,120.0,Dahili Ekran Kartı,15.6,16.999
+asus,Windows,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,17.899
+lenovo,Free Dos,Intel Core i3,11.0,1920 x 1080,512.0,20.0,0.0,120.0,Intel UHD Graphics,15.6,11.3999
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,40.0,0.0,60.0,AMD Radeon Graphics,15.6,20.0
+hp,Free Dos,Intel Core i3,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics 600,15.6,13.499
+lenovo,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,40.0,0.0,60.0,Intel XE Graphics,15.6,23.999
+fosiltech,Windows,Intel Atom,5.0,1920 x 1080,128.0,2.0,128.0,60.0,Belirtilmemiş,11.6,18.04
+lenovo,Windows,Intel Core i5,13.0,1920 x 1080,512.0,8.0,512.0,60.0,Intel XE Graphics,15.6,22.999
+asus,Free Dos,AMD Ryzen 7,3.0,1920 x 1080,1.0,24.0,0.0,60.0,AMD Radeon Graphics,15.6,16.199
+acer,Free Dos,AMD Ryzen 7,6.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3070Ti,15.6,34.499
+lenovo,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,11.149
+monster,Windows,Intel Core i7,13.0,1920 x 1080,1.0,64.0,0.0,144.0,Nvidia GeForce RTX 4050,17.3,52.699
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,17.056
+casper,Free Dos,Intel Xeon,13.0,1920 x 1280,1.0,32.0,256.0,120.0,Intel Iris Pro Graphics,15.6,16.6906
+dell,Windows,AMD Ryzen 5,5.0,1920 x 1080,512.0,16.0,0.0,120.0,AMD Radeon Graphics,15.6,14.4656
+asus,,,,,,,,,,,9.459
+apple,,,,,1.0,,0.0,,,14.0,89.99
+asus,Windows,Intel Core i5,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel HD Graphics,15.6,17.899
+asus,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,15.199
+hp,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,37.7181
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,13.499
+asus,Free Dos,Intel Core i3,12.0,1920 x 1080,1.0,20.0,0.0,60.0,Intel UHD Graphics,15.6,12.8999
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,34.999
+hp,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,12.0,0.0,60.0,Dahili Ekran Kartı,15.6,12.999
+dell,Windows,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,15.999
+asus,Windows,Intel Core i5,13.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce RTX 2050,15.6,27.999
+lenovo,Free Dos,Intel Celeron,11.0,1366 x 768,512.0,4.0,128.0,60.0,Intel UHD Graphics 600,15.6,9.1948
+asus,Windows,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.0,14.999
+casper,Windows,Intel Core i5,11.0,1920 x 1080,500.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,15.099
+apple,Mac Os,M2,13.0,Belirtilmemiş,512.0,8.0,0.0,60.0,Belirtilmemiş,13.0,43.999
+lenovo,Windows,Intel Core i3,10.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,10.699
+lenovo,Free Dos,Intel Core i7,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Nvidia GeForce MX450,15.6,31.649
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,500.0,32.0,0.0,144.0,Nvidia GeForce GTX 1650,15.6,24.799
+asus,Windows,Intel Core i7,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,22.4717
+asus,Free Dos,Intel Core i7,12.0,1920 x 1200,512.0,16.0,0.0,165.0,Nvidia GeForce RTX 4050,16.0,42.999
+hp,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel XE Graphics,15.6,13.9999
+lenovo,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel XE Graphics,15.6,24.9999
+lenovo,Windows,Intel Core i5,12.0,1920 x 1200,1.0,8.0,0.0,60.0,Intel Iris Graphics,14.0,29.0642
+lenovo,Free Dos,AMD Ryzen 5,6.0,2560 x 1600,1.0,16.0,0.0,60.0,Nvidia GeForce RTX3060,16.0,31.205
+asus,Windows,Intel Core i5,13.0,1920 x 1080,512.0,8.0,512.0,60.0,Intel UHD Graphics,14.0,25.0
+apple,Mac Os,Apple M2 Pro,12.0,3456 x 2234,512.0,16.0,512.0,120.0,M2 Pro 19 Çekirdekli,16.0,83.49
+asus,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,23.609
+asus,Windows,Intel Celeron,13.0,1920 x 1080,256.0,4.0,0.0,60.0,Intel UHD Graphics 600,14.0,8.1661
+lenovo,Free Dos,AMD Ryzen 3,5.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon R3,15.6,11.2612
+hp,Free Dos,Intel Core i5,13.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,25.999
+dell,Windows,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,24.8445
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,256.0,16.0,0.0,60.0,Nvidia GeForce GTX 1650,15.6,25.6891
+asus,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,20.648
+monster,,,,,1.0,,0.0,,,15.6,39.899
+acer,Free Dos,Intel Core i7,13.0,3456 x 2234,1.0,16.0,0.0,120.0,Intel Iris Graphics,16.0,49.9
+lenovo,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,18.999
+lenovo,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,12.7999
+casper,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,24.399
+hp,Free Dos,AMD Ryzen 7,6.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,16.1,28.799
+asus,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,24.0,0.0,60.0,Intel UHD Graphics,15.6,21.8014
+lenovo,Free Dos,AMD E,,1920 x 1080,256.0,4.0,,,Dahili Ekran Kartı,15.6,11.666
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,16.199
+asus,Windows,AMD Ryzen 7,5.0,2880 x 1620,1.0,16.0,0.0,120.0,AMD Radeon Graphics,15.6,34.999
+lenovo,Free Dos,AMD A4,2.0,2256 x 1504,500.0,8.0,256.0,60.0,AMD Radeon R5 M430,14.0,14.1999
+asus,Free Dos,AMD Ryzen 3,3.0,1366 x 768,256.0,4.0,0.0,60.0,AMD Radeon Vega 8,14.0,9.5031
+asus,Windows,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,23.0601
+asus,Free Dos,Intel Core i3,11.0,1920 x 1080,512.0,20.0,0.0,60.0,Dahili Ekran Kartı,15.6,10.999
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,256.0,8.0,0.0,144.0,AMD Radeon RX6500M,15.6,25.47
+dell,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,120.0,Intel Iris Graphics,15.6,14.4999
+asus,Free Dos,Intel Core i9,12.0,1920 x 1080,1.0,32.0,0.0,360.0,Nvidia GeForce RTX 3080,17.0,75.999
+asus,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,27.999
+hp,Windows,AMD Ryzen 5,7.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel HD Graphics,14.0,12.699
+apple,Mac Os,M3,3.0,3024 x 1964,512.0,8.0,0.0,120.0,M3,14.0,62.999
+acer,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce MX550,15.6,19.7001
+asus,Windows,Intel Celeron,1.0,1366 x 768,128.0,4.0,0.0,60.0,Paylaşımlı,15.6,8.999
+lenovo,Free Dos,AMD Athlon,13.0,1366 x 768,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,11.555
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,500.0,32.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,31.899
+lenovo,Free Dos,AMD Ryzen 9,13.0,2560 x 1600,512.0,32.0,0.0,120.0,Nvidia GeForce RTX 3050,16.0,42.9999
+msi,Windows,Intel Core i7,11.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX3060,15.6,64.999
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,90.0,Intel UHD Graphics,15.6,13.989
+monster,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,64.0,0.0,144.0,Nvidia GeForce RTX 4060,17.3,49.139
+asus,Free Dos,Intel Core i7,12.0,1920 x 1200,512.0,24.0,0.0,120.0,Nvidia GeForce RTX 2050,16.0,31.909
+dell,Free Dos,Intel Core i9,13.0,1920 x 1080,2.0,64.0,0.0,165.0,Nvidia GeForce RTX 4060,15.6,55.1609
+hp,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,14.0,17.3999
+asus,Free Dos,Intel Xeon,13.0,1920 x 1280,1.0,32.0,256.0,120.0,Intel Iris Pro Graphics,15.6,10.5299
+msi,Windows,Intel Core i7,13.0,1920 x 1200,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4080,16.0,79.899
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,15.899
+hp,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,14.0,22.2045
+hp,Windows,AMD Ryzen 7,5.0,1920 x 1080,512.0,32.0,0.0,60.0,AMD Radeon Vega 8,15.6,14.999
+asus,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,15.299
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,16.499
+monster,Windows,Intel Core i7,12.0,1920 x 1080,500.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,17.3,43.299
+dell,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,120.0,Dahili Ekran Kartı,15.6,21.2574
+hp,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,18.6
+hp,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,13.999
+acer,Windows,AMD Ryzen 5,7.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,17.3731
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,500.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,20.499
+asus,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,24.0,0.0,60.0,Dahili Ekran Kartı,15.6,25.999
+asus,Free Dos,Intel Celeron,5.0,1366 x 768,512.0,16.0,0.0,60.0,Intel UHD Graphics 600,15.6,11.6811
+lenovo,Windows,AMD Ryzen 3,13.0,1920 x 1080,256.0,20.0,0.0,60.0,AMD Radeon Graphics,14.0,15.0
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD,15.6,17.399
+asus,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,34.1946
+dell,Windows,AMD Ryzen 5,5.0,1920 x 1080,256.0,16.0,0.0,120.0,AMD Radeon Graphics,15.6,13.8904
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,90.0,Intel XE Graphics,15.6,18.999
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,256.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,14.3999
+lenovo,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce MX550,15.6,27.999
+hp,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel XE Graphics,15.6,12.6999
+hp,Windows,AMD Ryzen 7,5.0,1920 x 1080,2.0,32.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,16.1,31.999
+hp,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,16.1,33.999
+hp,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,23.9999
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Belirtilmemiş,15.6,22.225
+asus,Windows,Intel Core i5,10.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce GTX 1650,15.6,26.6238
+dell,Windows,Intel Core i7,13.0,2560 x 1600,1.0,16.0,0.0,240.0,Nvidia GeForce RTX 4060,16.0,47.049
+asus,Free Dos,AMD Ryzen 7,3.0,1920 x 1080,512.0,16.0,1.0,60.0,AMD Radeon Graphics,15.6,15.749
+dell,Windows,AMD Ryzen 7,5.0,1920 x 1080,1.0,32.0,0.0,120.0,Dahili Ekran Kartı,15.6,18.899
+lenovo,Windows,AMD A6,8.0,1366 x 768,128.0,4.0,0.0,60.0,AMD Radeon R4,15.6,12.65
+dell,Free Dos,AMD Ryzen 5,3.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Vega 8,15.6,12.728
+asus,Windows,Intel Core i7,12.0,2880 x 1800,0.0,16.0,1.0,60.0,Intel Iris Graphics,14.0,56.4995
+hp,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,13.549
+dell,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,14.3481
+lenovo,Windows 11,Intel Core i7,11.0,1920 x 1080,1.0,32.0,0.0,60.0,Nvidia GeForce MX450,15.6,35.0598
+asus,Windows,Intel Core i3,11.0,1920 x 1080,128.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,9.999
+lenovo,Windows 11,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Paylaşımlı,15.6,17.75
+casper,Windows,Intel Core i5,12.0,1920 x 1080,500.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,17.899
+lenovo,Free Dos,AMD A4,2.0,2256 x 1504,500.0,8.0,256.0,60.0,AMD Radeon R5 M430,14.0,11.6749
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,12.7701
+hp,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel HD Graphics,15.6,15.4507
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,15.9999
+technopc,Free Dos,Intel Pentium,3.0,1920 x 1080,128.0,4.0,250.0,,Intel UHD Graphics 600,14.0,6.999
+lenovo,Free Dos,Intel Core i3,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,12.0652
+hp,Chrome OS,Apple M1 Pro,1.0,2560 x 1664,4.0,48.0,1.0,360.0,Nvidia GeForce MX450,16.1,32.9999
+asus,Windows,Intel Core i5,10.0,2880 x 1800,512.0,16.0,0.0,90.0,Intel XE Graphics,14.0,37.48
+hp,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,14.0,29.999
+asus,Free Dos,AMD Ryzen 9,7.0,2560 x 1440,1.0,16.0,0.0,240.0,Nvidia GeForce RTX 4070,17.3,65.999
+asus,Windows,Intel Core i5,13.0,2880 x 1620,512.0,16.0,512.0,120.0,Nvidia GeForce RTX 4050,15.6,46.701
+asus,Windows,Intel Core i3,11.0,1920 x 1080,128.0,4.0,0.0,60.0,Intel HD Graphics 610,15.6,9.699
+lenovo,,,,,512.0,,0.0,,,15.6,14.999
+acer,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,8.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,29.89
+asus,,,,,,,,,,,10.949
+acer,Windows,Intel Core i3,3.0,1920 x 1080,512.0,4.0,0.0,60.0,Intel UHD Graphics,15.6,10.299
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,256.0,24.0,0.0,60.0,Dahili Ekran Kartı,15.6,15.9999
+lenovo,Windows,Intel Pentium,5.0,1920 x 1200,4.0,4.0,2.0,90.0,Dahili Ekran Kartı,15.6,31.999
+acer,Windows,Intel Core i5,11.0,1920 x 1080,2.0,40.0,0.0,60.0,Intel Iris Graphics,15.6,20.8
+lenovo,Windows,Intel Celeron,1.0,1366 x 768,1.0,4.0,0.0,60.0,Intel UHD Graphics 600,15.6,9.7083
+lenovo,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,120.0,Nvidia GeForce RTX 3060 Ti,15.6,39.4028
+acer,Free Dos,Intel Core i5,10.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce RTX 3050,15.6,21.3163
+asus,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,12.299
+acer,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,29.999
+lenovo,,,,,,,,,,,19.999
+hp,Windows,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,13.799
+dell,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,120.0,Intel Iris Graphics,15.6,12.7701
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel XE Graphics,15.6,15.8999
+lenovo,Windows 11,AMD Ryzen 5,10.0,1920 x 1080,512.0,16.0,0.0,60.0,Paylaşımlı,15.6,19.1
+acer,Windows,Intel Core i5,12.0,1920 x 1080,512.0,32.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,15.6,27.6183
+lenovo,Windows,Intel Core i3,11.0,1920 x 1080,256.0,12.0,1.0,60.0,Dahili Ekran Kartı,14.0,21.666
+hp,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel HD Graphics,15.6,18.4765
+dell,Free Dos,Intel Core i3,11.0,1366 x 768,256.0,4.0,0.0,60.0,Intel UHD Graphics,14.0,8.8101
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,2.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,20.6
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,14.8998
+monster,,,,,,,,,,,23.899
+asus,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,24.0,0.0,60.0,Intel XE Graphics,15.6,25.2441
+lenovo,Windows,Intel Core i5,13.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,16.299
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,15.899
+dell,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,120.0,Dahili Ekran Kartı,15.6,15.7831
+asus,Windows,AMD Ryzen 5,13.0,1920 x 1200,1.0,16.0,0.0,60.0,AMD Radeon Graphics,14.0,28.099
+acer,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,12.0,0.0,60.0,Intel Iris Plus Graphics,15.6,13.6499
+hp,Windows,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,13.299
+asus,Windows,Intel Core i5,10.0,1920 x 1080,512.0,8.0,512.0,90.0,Intel XE Graphics,15.6,20.899
+lenovo,Free Dos,Intel Core i7,9.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce GTX 1650,15.6,32.499
+dell,Free Dos,Intel Core i5,10.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,14.2403
+dell,Free Dos,Intel Core i5,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,14.1325
+dell,Free Dos,Intel Core i5,12.0,1920 x 1080,256.0,12.0,0.0,60.0,Intel Iris Graphics,15.6,14.4919
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,20.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.1425
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,20.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.6099
+dell,Free Dos,AMD,1.0,1280 x 800,128.0,1.0,250.0,60.0,Dahili Ekran Kartı,14.0,12.8409
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,20.0,0.0,60.0,Nvidia GeForce MX330,14.0,16.3582
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,32.0,0.0,60.0,Nvidia GeForce MX330,14.0,17.1111
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,24.0,1.0,60.0,Nvidia GeForce MX330,14.0,18.6559
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,24.0,0.0,60.0,Nvidia GeForce MX330,14.0,17.9739
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,32.0,0.0,60.0,Nvidia GeForce MX330,14.0,16.1425
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,24.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.2144
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,32.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.183
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,32.0,0.0,60.0,Nvidia GeForce MX330,14.0,16.3223
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,24.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.3537
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,24.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.6818
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,8.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.3177
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,2.0,20.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.1471
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,32.0,1.0,60.0,Nvidia GeForce MX330,14.0,19.3379
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,20.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.9638
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,8.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.3638
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,12.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.3582
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,32.0,0.0,60.0,Nvidia GeForce MX330,14.0,18.4752
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,12.0,0.0,60.0,Nvidia GeForce MX330,14.0,17.219
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,8.0,0.0,60.0,Nvidia GeForce MX330,14.0,16.6818
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,24.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.8605
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,512.0,24.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.2458
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,32.0,0.0,60.0,Nvidia GeForce MX330,14.0,16.501
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,12.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.901
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,8.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.5425
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,12.0,1.0,60.0,Nvidia GeForce MX330,14.0,18.0817
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,20.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.9997
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,8.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.1785
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,20.0,0.0,60.0,Nvidia GeForce MX330,14.0,16.1785
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,24.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.9997
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,8.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.9997
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,8.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.7222
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,24.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.3942
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,32.0,0.0,60.0,Nvidia GeForce MX330,14.0,18.2964
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,32.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.6762
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,256.0,32.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.2818
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,24.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.501
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,20.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.8605
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,32.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.7177
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,20.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.0402
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,12.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.7222
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,32.0,1.0,60.0,Nvidia GeForce MX330,14.0,19.1572
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,20.0,1.0,60.0,Nvidia GeForce MX330,14.0,18.4043
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,24.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.819
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,20.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.4291
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,2.0,8.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.1066
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,32.0,1.0,60.0,Nvidia GeForce MX330,14.0,19.5166
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,20.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.2504
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,32.0,0.0,60.0,Nvidia GeForce MX330,14.0,18.6559
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,1.0,32.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.3582
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,32.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.537
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,32.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.8964
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,8.0,0.0,60.0,Nvidia GeForce MX330,14.0,16.501
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,32.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.3638
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,16.0,1.0,60.0,Nvidia GeForce MX330,14.0,16.6818
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,17.3638
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,16.0,1.0,60.0,Nvidia GeForce MX330,14.0,18.4043
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,24.0,1.0,60.0,Nvidia GeForce MX330,14.0,17.4706
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,24.0,1.0,60.0,Nvidia GeForce MX330,14.0,18.8346
+dell,Windows,Intel Core i5,11.0,1366 x 768,2.0,20.0,1.0,60.0,Nvidia GeForce MX330,14.0,18.583
+dell,Linux,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,16.2446
+dell,Ubuntu,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,14.0,13.9999
+msi,Windows,Intel Core i9,13.0,2560 x 1600,2.0,64.0,0.0,240.0,Nvidia GeForce RTX 4070,17.3,89.999
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,512.0,12.0,0.0,60.0,Intel Iris Graphics,15.6,15.099
+asus,Free Dos,Intel Celeron,13.0,1920 x 1080,128.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,9.199
+lenovo,Windows,AMD Ryzen 7,5.0,1920 x 1080,512.0,24.0,0.0,60.0,AMD Radeon Graphics,15.6,17.628
+asus,Windows,Intel Celeron,13.0,1920 x 1080,128.0,4.0,0.0,60.0,Intel UHD Graphics,14.0,8.799
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,14.0,25.631
+asus,Windows,Intel Core i3,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,11.799
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,13.499
+lenovo,Windows,Intel Core i5,11.0,1366 x 768,512.0,20.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.7471
+lenovo,Windows,Intel Core i5,11.0,1366 x 768,256.0,20.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.2818
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,256.0,12.0,0.0,60.0,Intel XE Graphics,15.6,14.7483
+hp,Free Dos,AMD Ryzen 3,5.0,1920 x 1080,512.0,32.0,0.0,60.0,AMD Radeon Graphics,15.6,14.8
+asus,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,19.999
+lenovo,Windows,Intel Pentium,5.0,1920 x 1200,4.0,4.0,2.0,90.0,Dahili Ekran Kartı,15.6,31.999
+lenovo,Free Dos,Intel Core i5,11.0,1366 x 768,1.0,12.0,1.0,60.0,Nvidia GeForce MX330,14.0,14.9223
+lenovo,Free Dos,Intel Core i5,11.0,1366 x 768,1.0,8.0,1.0,60.0,Nvidia GeForce MX330,14.0,14.5638
+asus,Windows,Intel Celeron,4.0,1920 x 1080,128.0,4.0,0.0,60.0,Intel UHD Graphics 600,15.6,7.65
+monster,Free Dos,Intel Core i7,13.0,2560 x 1600,500.0,16.0,0.0,165.0,Nvidia GeForce RTX 4070,16.0,57.999
+asus,Windows,AMD Ryzen 5,5.0,2880 x 1800,1.0,16.0,0.0,90.0,Dahili Ekran Kartı,14.0,36.999
+asus,Linux,Apple M1 Pro,12.0,2340 x 1440,480.0,48.0,256.0,120.0,AMD R7 250,10.6,9.949
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,12.8191
+hp,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,24.0,0.0,60.0,Dahili Ekran Kartı,15.6,13.699
+asus,Windows,Intel Core i5,12.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel XE Graphics,15.6,16.999
+hp,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,16.1,33.899
+dell,Windows,Intel Core i5,12.0,1920 x 1080,256.0,12.0,0.0,60.0,Intel Iris Graphics,15.6,15.7471
+dell,Windows,Intel Core i5,10.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,15.4965
+dell,Windows,Intel Core i5,10.0,1920 x 1080,256.0,12.0,0.0,60.0,Intel Iris Graphics,15.6,15.855
+dell,Windows,Intel Core i5,10.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,15.4965
+dell,Free Dos,Intel Core i5,10.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,14.9223
+dell,Free Dos,Intel Core i5,10.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,14.7999
+dell,Free Dos,Intel Core i5,10.0,1920 x 1080,256.0,12.0,0.0,60.0,Intel Iris Graphics,15.6,14.5998
+dell,Free Dos,Intel Core i5,10.0,1920 x 1080,512.0,12.0,0.0,60.0,Intel Iris Graphics,15.6,15.0651
+dell,Free Dos,Intel Core i5,10.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,15.3886
+dell,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,16.2144
+dell,Windows,Intel Core i5,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,15.7471
+dell,Windows,Intel Core i5,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,15.3886
+dell,Windows,Intel Core i5,12.0,1920 x 1080,256.0,12.0,0.0,60.0,Intel Iris Graphics,15.6,15.7471
+dell,Windows,Intel Core i5,12.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,16.2504
+dell,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,15.855
+dell,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,16.0357
+dell,Windows,Intel Core i5,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,15.5684
+dell,Windows,Intel Core i5,12.0,1920 x 1080,512.0,12.0,0.0,60.0,Intel Iris Graphics,15.6,16.2144
+dell,Windows,Intel Core i5,12.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,16.0706
+dell,Windows,Intel Core i5,12.0,1920 x 1080,256.0,12.0,0.0,60.0,Intel Iris Graphics,15.6,15.9279
+dell,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,15.855
+dell,Windows,Intel Core i5,12.0,1920 x 1080,512.0,12.0,0.0,60.0,Intel Iris Graphics,15.6,16.2144
+dell,Windows,Intel Core i5,12.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,16.0706
+dell,Windows,Intel Core i5,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,15.3886
+dell,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,15.8919
+dell,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,20.0,0.0,60.0,Intel Iris Graphics,15.6,16.2504
+dell,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,12.0,0.0,60.0,Intel Iris Graphics,15.6,14.9583
+dell,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,15.2818
+casper,Windows,Intel Core i7,12.0,1920 x 1080,1.0,64.0,0.0,60.0,Intel Iris Graphics,15.6,31.899
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,8.0,1.0,60.0,Nvidia GeForce MX330,14.0,14.9223
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,12.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.2403
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.2099
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,20.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.9223
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,20.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.1011
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,24.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.5324
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,8.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.3886
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,2.0,12.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.6043
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,256.0,32.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.419
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,2.0,8.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.2458
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,12.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.3177
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,20.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.5684
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,8.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.2099
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,12.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.4965
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,12.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.5684
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,8.0,0.0,60.0,Nvidia GeForce MX330,14.0,14.3481
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,8.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.137
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,1.0,20.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.6043
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,256.0,20.0,0.0,60.0,Nvidia GeForce MX330,14.0,13.6661
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,8.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.5684
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.0302
+dell,,,,,,,,,,,15.3886
+dell,Windows,Intel Core i5,10.0,1920 x 1080,256.0,12.0,0.0,60.0,Intel Iris Graphics,15.6,15.855
+dell,Free Dos,Intel Core i5,10.0,1920 x 1080,256.0,24.0,0.0,60.0,Intel Iris Graphics,15.6,15.5324
+dell,Free Dos,Intel Core i5,10.0,1920 x 1080,1.0,12.0,0.0,60.0,Intel Iris Graphics,15.6,15.6762
+dell,Free Dos,Intel Core i5,12.0,1920 x 1080,256.0,24.0,0.0,60.0,Intel Iris Graphics,15.6,15.4246
+dell,,,,,,,,,,,14.8145
+casper,Free Dos,Intel Core i5,11.0,1920 x 1080,500.0,8.0,0.0,60.0,Intel XE Graphics,15.6,16.299
+hp,Free Dos,Intel Core i3,10.0,1366 x 768,0.0,4.0,1.0,60.0,Nvidia GeForce MX110,15.6,10.999
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel XE Graphics,15.6,13.184
+asus,Free Dos,Intel Core i5,11.0,Belirtilmemiş,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,13.399
+hp,Windows,Intel Core i5,13.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,21.299
+dell,Windows,Intel Core i7,13.0,1920 x 1080,512.0,16.0,0.0,120.0,Nvidia GeForce RTX 3050,15.6,41.016
+dell,Free Dos,Intel Core i5,13.0,1920 x 1080,1.0,16.0,0.0,120.0,Nvidia GeForce RTX 3050,16.0,30.4711
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,128.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,10.0471
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Belirtilmemiş,15.6,21.599
+lenovo,Free Dos,Intel Xeon,13.0,1920 x 1080,256.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,13.5
+lenovo,Windows,Intel Core i5,10.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,14.999
+lenovo,Free Dos,Intel Celeron,4.0,1920 x 1080,128.0,4.0,0.0,60.0,Intel UHD Graphics 600,14.0,8.155
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,14.8999
+dell,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,14.0,16.9281
+dell,,,,,,,,,,,13.999
+hp,Free Dos,Intel Core i7,12.0,2560 x 1440,1.0,16.0,0.0,165.0,Nvidia GeForce RTX3060,16.1,41.699
+lenovo,Windows,AMD Ryzen 3,7.0,1920 x 1080,256.0,4.0,0.0,60.0,Dahili Ekran Kartı,15.6,10.3999
+hp,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,14.0,17.3999
+dell,Free Dos,Intel Core i5,11.0,1366 x 768,2.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.9279
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,8.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.819
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,20.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.7831
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,24.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.6403
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,12.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.7471
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,12.0,1.0,60.0,Nvidia GeForce MX330,14.0,15.9279
+dell,Windows,Intel Core i5,11.0,1366 x 768,256.0,32.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.855
+dell,Windows,Intel Core i5,11.0,1366 x 768,1.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.819
+dell,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,32.0,2.0,60.0,Nvidia GeForce MX550,15.6,24.8922
+asus,Free Dos,Intel Core i3,11.0,1920 x 1080,512.0,12.0,0.0,60.0,Dahili Ekran Kartı,15.6,11.499
+lenovo,Windows,AMD Ryzen 5,5.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,15.0
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,20.591
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,19.916
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,14.2918
+asus,Free Dos,Intel Core i3,11.0,1920 x 1080,256.0,4.0,0.0,60.0,Intel UHD Graphics,15.6,9.498
+hp,Free Dos,Intel Xeon,13.0,1920 x 1080,256.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,26.9573
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,18.6
+hp,Windows,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,18.5
+hp,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,18.0
+hp,Windows,Intel Core i5,12.0,1920 x 1080,1.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,22.2
+hp,Windows,Intel Core i5,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,18.0
+hp,Free Dos,Intel Core i5,12.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,18.1
+hp,Free Dos,Intel Core i3,12.0,1920 x 1080,256.0,64.0,0.0,60.0,Intel UHD Graphics,14.0,19.745
+hp,Windows,Intel Core i3,12.0,1920 x 1080,256.0,64.0,0.0,60.0,Intel UHD Graphics,14.0,20.611
+hp,Windows,Intel Core i3,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,14.0,15.401
+hp,Windows,Intel Core i3,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,14.0,15.401
+hp,Free Dos,Intel Core i3,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,14.0,14.754
+hp,Windows,Intel Core i3,12.0,1920 x 1280,256.0,8.0,0.0,60.0,Intel Iris Graphics,14.0,15.401
+hp,Free Dos,Intel Core i3,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,14.0,14.754
+hp,Free Dos,Intel Core i3,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,14.0,12.2204
+hp,Windows,AMD Ryzen 7,7.0,1920 x 1080,2.0,32.0,0.0,144.0,Nvidia GeForce RTX 3050,16.1,34.999
+asus,Windows,AMD Ryzen 5,5.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,24.999
+asus,Windows,Intel Core i3,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,16.6311
+hp,Windows,Intel Core i5,13.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,18.099
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,512.0,32.0,0.0,144.0,AMD Radeon RX6500M,15.6,27.509
+lenovo,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,20.3999
+asus,Free Dos,Intel Core i3,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,12.9122
+asus,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,22.569
+hp,Windows,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,18.399
+asus,Free Dos,Intel Core i5,13.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel XE Graphics,15.6,19.9979
+lenovo,Linux,Intel Core i5,12.0,2560 x 1600,256.0,8.0,0.0,60.0,Intel Iris Graphics,12.5,32.999
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Belirtilmemiş,15.6,14.999
+asus,Windows,MediaTek P60T,5.0,4480 x 2520,32.0,36.0,500.0,90.0,Nvidia GeForce MX450,18.0,15.387
+asus,Windows,Intel Celeron,13.0,1366 x 768,128.0,4.0,0.0,60.0,Intel UHD Graphics 600,15.6,8.499
+honor,Windows,Intel Core i5,10.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel UHD Graphics,14.0,23.999
+dell,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,14.999
+microsoft,Windows,MediaTek P60T,12.0,2880 x 1800,512.0,16.0,0.0,90.0,Intel Iris Graphics,13.0,91.466
+msi,Free Dos,Intel Core i9,13.0,1920 x 1080,1.0,32.0,0.0,240.0,Nvidia GeForce RTX 4090,17.0,124.0058
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,24.0,0.0,60.0,Intel Iris Graphics,15.6,16.199
+asus,Free Dos,AMD Ryzen 7,1.0,1920 x 1200,512.0,24.0,0.0,60.0,Dahili Ekran Kartı,16.0,21.029
+asus,Windows,Intel Core i5,10.0,1920 x 1080,512.0,32.0,0.0,60.0,Nvidia GeForce GTX 1650,15.6,26.1188
+asus,Free Dos,Intel Celeron,13.0,1920 x 1080,0.0,4.0,1.0,60.0,Intel HD Graphics,15.6,9.489
+apple,Mac Os,Apple M1 Pro,13.0,3024 x 1964,512.0,16.0,0.0,120.0,M1 Pro 14 Çekirdekli,14.0,71.699
+msi,Windows,Intel Core i7,12.0,1920 x 1080,512.0,32.0,0.0,60.0,Nvidia GeForce GTX 1650,14.0,35.65
+hp,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,26.0
+acer,Windows,Intel Core i7,13.0,2560 x 1600,512.0,16.0,0.0,165.0,Nvidia GeForce RTX 4060,16.0,57.998
+dell,Windows,Intel Core i5,12.0,1920 x 1080,1.0,12.0,0.0,60.0,Intel Iris Graphics,15.6,16.8246
+hp,Windows,Intel Core i5,11.0,1920 x 1080,1.0,32.0,0.0,60.0,Intel UHD Graphics,15.6,17.59
+hp,Free Dos,AMD Ryzen 3,5.0,1920 x 1080,1.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,14.8
+hp,Free Dos,AMD Ryzen 3,5.0,1920 x 1080,1.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,14.1
+asus,Windows,Intel Core i5,12.0,1920 x 1080,1.0,24.0,0.0,60.0,Intel Iris Graphics,15.6,18.449
+hp,Windows,Intel Core i7,13.0,1920 x 1280,1.0,32.0,0.0,60.0,Intel UHD Graphics,13.5,53.789
+asus,,,,,,,,,,,18.399
+asus,Windows,Intel Core i7,13.0,1920 x 1080,512.0,8.0,512.0,60.0,Intel UHD Graphics,15.6,27.854
+acer,Free Dos,AMD Ryzen 3,7.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,10.299
+asus,Windows,AMD Ryzen 5,7.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,15.999
+hp,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,17.3076
+hp,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,2.0,32.0,0.0,144.0,Nvidia GeForce RTX 3090,16.1,37.999
+asus,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,40.0,0.0,60.0,Intel UHD Graphics,15.6,24.2989
+monster,Windows,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,14.1,22.499
+hp,Free Dos,Intel Core i5,12.0,1920 x 1080,256.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,19.2
+hp,Windows,Intel Core i5,12.0,1920 x 1080,256.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,19.7
+hp,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,16.1,32.899
+lenovo,Free Dos,Intel Celeron,1.0,1920 x 1080,256.0,4.0,0.0,60.0,Dahili Ekran Kartı,14.0,9.449
+lenovo,Windows,AMD Ryzen 5,7.0,1920 x 1080,256.0,8.0,0.0,60.0,Belirtilmemiş,15.6,12.159
+dell,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce MX550,15.6,19.44
+toshiba,Windows,Intel Core i5,,1600 x 900,256.0,16.0,,,Paylaşımlı,14.0,26.785
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce MX350,15.6,18.2569
+hp,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,16.0,0.0,165.0,Nvidia GeForce RTX 4060,16.1,45.999
+lenovo,Windows,Intel Celeron,1.0,1366 x 768,128.0,4.0,,,Paylaşımlı,14.0,8.399
+asus,,,,,512.0,,0.0,,,15.6,23.499
+hp,Windows,AMD Ryzen 3,5.0,1920 x 1080,512.0,32.0,0.0,60.0,AMD Radeon Graphics,15.6,15.2
+hp,Windows,Intel Core i5,11.0,1920 x 1080,1.0,24.0,0.0,60.0,Intel Iris Graphics,15.6,15.999
+dell,Windows,AMD Ryzen 5,5.0,1920 x 1080,512.0,16.0,1.0,120.0,AMD Radeon Graphics,15.6,15.7523
+hp,Windows,Intel Core i7,13.0,1920 x 1200,1.0,32.0,0.0,60.0,Nvidia Quadro RTX 5000,16.0,64.617
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,64.0,0.0,60.0,Intel Iris Graphics,15.6,16.0371
+casper,,,,,,,,,,,14.699
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel XE Graphics,15.6,16.0516
+acer,Windows,AMD Ryzen 5,7.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,12.6421
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,16.0,0.0,60.0,Nvidia GeForce MX350,15.6,16.1536
+hp,Free Dos,Intel Core i7,13.0,1920 x 1080,1.0,32.0,0.0,165.0,Nvidia GeForce RTX 4080,16.1,71.999
+acer,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,13.9988
+lenovo,Windows,AMD Ryzen 5,5.0,1920 x 1080,512.0,8.0,0.0,120.0,Nvidia GeForce GTX 1650,15.6,23.949
+asus,Windows,AMD Ryzen 5,13.0,1920 x 1200,1.0,24.0,0.0,60.0,AMD Radeon Graphics,14.0,28.599
+technopc,Windows,Intel Celeron,13.0,1920 x 1080,128.0,128.0,128.0,60.0,Intel HD Graphics,15.6,7.9
+acer,Free Dos,Intel Core i9,13.0,2560 x 1600,1.0,32.0,0.0,240.0,Nvidia GeForce RTX 4080,16.0,83.999
+asus,Free Dos,Intel Core i9,13.0,3200 x 1800,2.0,32.0,500.0,120.0,Nvidia GeForce RTX 4070,16.0,89.999
+acer,Free Dos,Intel Core i7,11.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX3060,15.6,33.45
+asus,Windows,Intel Core i3,11.0,1920 x 1080,128.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,10.199
+dell,Free Dos,AMD Ryzen 3,1.0,1280 x 800,128.0,1.0,250.0,60.0,Dahili Ekran Kartı,14.0,79.275
+casper,Windows,Intel Core i3,11.0,1920 x 1080,500.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,13.599
+casper,Windows,Intel Core i5,11.0,1920 x 1080,250.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,14.875
+asus,Free Dos,Intel Core i3,11.0,1920 x 1080,256.0,4.0,0.0,60.0,Intel UHD Graphics,15.6,9.499
+asus,Free Dos,Intel Core i9,12.0,3840 x 2400,2.0,32.0,0.0,60.0,Nvidia RTX A3000,16.0,97.999
+asus,Windows,Intel Core i3,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,11.5999
+lenovo,Free Dos,Intel Core i7,10.0,1920 x 1080,256.0,4.0,0.0,120.0,Nvidia GeForce RTX 3090,14.0,31.999
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,2.0,32.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,34.999
+hp,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4070,16.1,48.999
+dell,,,,,,,,,,,17.999
+gigabyte,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,32.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,32.499
+asus,Windows,AMD Ryzen 3,3.0,1920 x 1080,256.0,12.0,0.0,60.0,Dahili Ekran Kartı,14.0,14.866
+dell,Linux,Intel Core i3,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel UHD Graphics,14.0,11.499
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,14.7501
+casper,Windows,Intel Core i5,12.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce GTX 1650,15.6,27.999
+hp,Windows,Intel Core i9,13.0,2560 x 1440,4.0,64.0,0.0,240.0,Nvidia GeForce RTX 4090,17.3,163.2
+asus,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel XE Graphics,15.6,22.549
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,13.399
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,33.333
+hp,Free Dos,AMD Ryzen 5,5.0,1920 x 1080,1.0,16.0,0.0,60.0,AMD Radeon Graphics,14.0,14.349
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,24.0,0.0,60.0,Dahili Ekran Kartı,15.6,13.239
+hp,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,19.999
+hp,Windows,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,60.0,Intel Iris Graphics,14.0,31.8
+dell,Windows,Intel Core i5,11.0,1366 x 768,512.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,15.599
+dell,Windows,Intel Core i5,13.0,1920 x 1200,256.0,8.0,0.0,60.0,Intel XE Graphics,14.0,18.999
+apple,Mac Os,Apple M1,3.0,2560 x 1600,256.0,8.0,250.0,120.0,Dahili Ekran Kartı,13.3,31.17
+lenovo,Free Dos,Intel Core i7,11.0,1920 x 1080,256.0,16.0,0.0,165.0,Nvidia GeForce RTX 3050 Ti,15.6,36.2
+lenovo,Free Dos,Intel Core i3,12.0,1920 x 1080,512.0,8.0,512.0,60.0,Intel HD Graphics,14.0,11.989
+microsoft,Windows,Intel Core i7,12.0,2880 x 1800,256.0,16.0,0.0,120.0,Intel Iris Graphics,13.0,61.915
+asus,Windows,Intel Core i5,10.0,1920 x 1080,256.0,8.0,0.0,60.0,Belirtilmemiş,15.6,14.999
+asus,Windows,Intel Core i3,11.0,1920 x 1080,128.0,8.0,0.0,60.0,Intel HD Graphics,15.6,10.449
+lenovo,Windows,Intel Core i3,10.0,1366 x 768,256.0,4.0,0.0,60.0,Intel HD Graphics,15.6,10.499
+casper,Windows,Intel Core i7,12.0,1920 x 1080,2.0,64.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,45.999
+dell,Windows,Intel Core i5,10.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,15.6762
+hp,Windows,Intel Core i5,13.0,2240 x 1400,512.0,16.0,512.0,60.0,Intel Iris Graphics,14.0,31.141
+dell,Windows,Intel Core i5,10.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,15.9638
+dell,Windows,Intel Core i5,10.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,15.9638
+dell,Free Dos,Intel Core i5,10.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,15.9997
+dell,Free Dos,Intel Core i5,10.0,1920 x 1080,512.0,24.0,0.0,60.0,Intel Iris Graphics,15.6,15.9997
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,500.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,17.499
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Belirtilmemiş,15.6,14.299
+lenovo,Free Dos,Intel Xeon,13.0,1920 x 1080,256.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,11.999
+asus,Windows,Intel Core i3,11.0,1920 x 1080,128.0,4.0,0.0,60.0,Nvidia GeForce 1050 Ti,15.6,12.999
+lenovo,Windows,Intel Core i5,12.0,2560 x 1600,512.0,8.0,0.0,60.0,Intel Iris Graphics,16.0,28.999
+lenovo,Windows,AMD Ryzen 5,7.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,11.803
+asus,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,40.0,0.0,60.0,Intel XE Graphics,15.6,25.1451
+dell,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,120.0,Intel XE Graphics,15.6,20.9999
+dell,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,120.0,Dahili Ekran Kartı,15.6,19.6225
+casper,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,26.999
+acer,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,32.0,0.0,60.0,Nvidia GeForce MX550,15.6,22.6201
+hp,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX3060,16.1,31.9
+hp,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Nvidia GeForce MX550,15.6,19.2999
+dell,Windows,AMD Ryzen 5,5.0,1920 x 1080,512.0,32.0,0.0,120.0,Nvidia GeForce RTX 3050,15.6,27.489
+asus,Windows,Intel Core i5,12.0,2880 x 1800,0.0,16.0,1.0,120.0,Intel Iris Graphics,14.5,89.999
+lenovo,Windows,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,14.6856
+hp,Windows,AMD Ryzen 7,7.0,1920 x 1080,1.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,30.0
+asus,Windows,Intel Core i7,13.0,2880 x 1800,1.0,16.0,0.0,60.0,Intel XE Graphics,13.3,58.999
+asus,Free Dos,Intel Core i3,11.0,1920 x 1080,256.0,12.0,0.0,60.0,Dahili Ekran Kartı,15.6,10.399
+dell,Windows,Intel Core i7,13.0,1920 x 1080,512.0,32.0,0.0,165.0,Nvidia GeForce RTX 4050,15.6,43.4932
+dell,Windows,Intel Core i3,11.0,1366 x 768,512.0,16.0,0.0,60.0,Intel UHD Graphics,14.0,12.999
+hp,Windows,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX3060,16.1,55.9
+von-januar,Windows,Apple M1,5.0,4480 x 2520,4.0,48.0,750.0,90.0,RX6700M,18.0,69.0
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,15.6999
+acer,Windows,AMD Ryzen 5,7.0,1920 x 1080,1.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,18.4131
+hp,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,16.1,41.899
+hp,Windows,Intel Core i5,13.0,1920 x 1080,512.0,64.0,0.0,60.0,Intel Iris Graphics,15.6,23.899
+apple,Mac Os,Apple M2,2.0,2880 x 1800,512.0,8.0,512.0,120.0,M2 10 Çekirdekli,15.0,59.49
+apple,Mac Os,Apple M2,2.0,2560 x 1600,256.0,16.0,0.0,60.0,M2 10 Çekirdekli,13.3,59.99
+lenovo,Windows,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,16.576
+hp,Windows,Intel Core i5,11.0,1920 x 1080,512.0,12.0,0.0,60.0,Dahili Ekran Kartı,15.6,14.299
+asus,Free Dos,Intel Core i3,12.0,1920 x 1080,256.0,4.0,0.0,60.0,Intel HD Graphics,15.6,9.789
+hp,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce MX550,15.6,23.999
+casper,Free Dos,Intel Core i3,11.0,1920 x 1080,1.0,32.0,0.0,60.0,Intel UHD Graphics,15.6,17.299
+asus,Windows,Intel Core i9,13.0,2560 x 1600,1.0,16.0,0.0,240.0,Nvidia GeForce RTX 4070,16.0,71.05
+asus,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 4050,15.6,34.5804
+dell,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,32.0,0.0,120.0,Dahili Ekran Kartı,15.6,20.5309
+monster,Windows,Intel Core i7,11.0,1920 x 1080,500.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050 Ti,15.6,31.599
+hp,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,12.0,0.0,60.0,Dahili Ekran Kartı,15.6,12.649
+toshiba,Windows,Intel Core i7,4.0,1920 x 1080,512.0,16.0,500.0,60.0,Intel HD Graphics 4400,15.6,29.9999
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Intel HD Graphics,15.6,12.97
+lenovo,Windows,Intel Celeron,11.0,1366 x 768,0.0,4.0,128.0,60.0,Dahili Ekran Kartı,15.6,7.5
+dell,Windows,AMD Ryzen 5,5.0,1920 x 1080,256.0,8.0,0.0,120.0,AMD Radeon Graphics,15.6,12.8368
+dell,Free Dos,Intel Core i3,11.0,1366 x 768,0.0,4.0,0.0,60.0,Intel UHD Graphics,14.0,9.3741
+hp,Free Dos,AMD Ryzen 3,5.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,14.0,10.549
+lenovo,Windows,Intel Core i3,11.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,12.414
+asus,Windows,AMD Ryzen 7,7.0,1920 x 1080,512.0,8.0,500.0,144.0,Nvidia GeForce RTX 4050,15.6,33.499
+casper,Windows,Intel Core i5,11.0,1920 x 1080,500.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,15.999
+hp,Windows,Intel Core i5,13.0,1920 x 1080,1.0,64.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,30.902
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,14.999
+apple,Mac Os,M2,13.0,2560 x 1664,256.0,16.0,0.0,60.0,M2 8 Çekirdekli,13.6,45.999
+asus,Free Dos,Intel Core i9,13.0,2560 x 1600,2.0,32.0,0.0,240.0,Nvidia GeForce RTX 4090,18.4,124.999
+dell,Free Dos,Intel Core i7,12.0,1920 x 1080,256.0,16.0,0.0,60.0,Dahili Ekran Kartı,15.6,19.2588
+apple,Mac Os,M2,13.0,2560 x 1600,512.0,16.0,512.0,60.0,M2 10 Çekirdekli,13.3,64.999
+casper,Free Dos,Intel Core i7,11.0,1920 x 1080,2.0,32.0,0.0,60.0,Intel Iris Graphics,15.6,28.5
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,29.999
+lenovo,Windows,Intel Celeron,13.0,1920 x 1080,128.0,4.0,128.0,60.0,Intel UHD Graphics 600,15.6,9.449
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,1.0,24.0,0.0,60.0,AMD Radeon Graphics,15.6,19.0
+dell,Free Dos,Intel Xeon,13.0,1920 x 1080,256.0,16.0,1.0,360.0,Nvidia GeForce RTX 3050 Ti,15.6,36.5076
+dell,Free Dos,Intel Core i7,12.0,1920 x 1080,256.0,8.0,0.0,60.0,Dahili Ekran Kartı,15.6,18.5323
+lenovo,,,,,256.0,,0.0,,,15.6,11.999
+asus,Free Dos,Intel Core i9,13.0,2560 x 1600,2.0,32.0,0.0,240.0,Nvidia GeForce RTX 4090,18.0,126.999
+asus,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3050,15.6,35.1195
+msi,Windows,Intel Core i7,13.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,75.529
+asus,Free Dos,Intel Core i7,10.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel UHD Graphics,14.0,24.499
+lenovo,Free Dos,AMD Ryzen 3,7.0,1920 x 1080,256.0,4.0,0.0,60.0,Dahili Ekran Kartı,15.6,9.8999
+lenovo,Free Dos,Intel Core i7,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,20.863
+lenovo,Free Dos,Intel Core i3,11.0,1920 x 1080,1.0,20.0,0.0,120.0,Intel UHD Graphics,15.6,11.9999
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,16.0,0.0,165.0,Nvidia GeForce RTX 3050 Ti,15.6,33.888
+asus,Windows,Intel Core i5,12.0,2880 x 1800,0.0,16.0,512.0,60.0,Intel Iris Graphics,14.0,45.5
+lenovo,Chrome OS,Intel Xeon W Serisi,1.0,5120 x 2880,8.0,128.0,0.0,360.0,Dahili Ekran Kartı,15.6,41.3279
+acer,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce MX550,15.6,20.5411
+apple,Mac Os,M2,13.0,3456 x 2234,1.0,16.0,0.0,60.0,Belirtilmemiş,16.0,88.499
+hp,Windows,Intel Core i5,11.0,1920 x 1080,512.0,24.0,0.0,60.0,Intel Iris Graphics,15.6,15.199
+acer,Free Dos,AMD Ryzen 7,6.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 3070Ti,15.6,35.899
+acer,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel UHD Graphics,15.6,13.999
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Nvidia GeForce MX350,15.6,18.9235
+lenovo,Free Dos,Intel Core i5,10.0,1920 x 1080,256.0,4.0,0.0,60.0,Nvidia GeForce MX330,15.6,20.812
+hp,Windows,Intel Core i5,11.0,1920 x 1080,256.0,12.0,0.0,60.0,Dahili Ekran Kartı,15.6,13.899
+asus,Windows,Intel Pentium Dual Core,13.0,1920 x 1200,0.0,3.0,0.0,60.0,AMD Radeon 620,11.6,9.499
+acer,Free Dos,Intel Core i9,13.0,2560 x 1600,1.0,32.0,0.0,240.0,Nvidia GeForce RTX 4070,16.0,64.999
+hp,Windows,Intel Core i5,13.0,1920 x 1080,512.0,16.0,0.0,144.0,Nvidia GeForce RTX 2050,15.6,28.766
+msi,Windows,Intel Core i9,13.0,2560 x 1600,2.0,64.0,0.0,165.0,Nvidia Quadro RTX 3000,17.0,158.519
+lenovo,Free Dos,AMD Ryzen 3,5.0,1920 x 1080,256.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,10.9999
+asus,Free Dos,Intel Core i3,12.0,1920 x 1080,512.0,8.0,0.0,60.0,Intel XE Graphics,15.6,12.199
+asus,Windows,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,31.03
+asus,Free Dos,AMD Ryzen 7,4.0,1920 x 1080,256.0,16.0,0.0,120.0,Nvidia GeForce RTX 3050 Ti,15.6,48.9123
+msi,Windows,Intel Core i7,13.0,1920 x 1080,1.0,64.0,0.0,144.0,Nvidia GeForce RTX 4060,17.3,70.999
+msi,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,32.0,0.0,144.0,Nvidia GeForce RTX 4070,15.6,57.999
+asus,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel XE Graphics,15.6,23.4621
+lenovo,Free Dos,AMD Ryzen 3,7.0,1920 x 1080,256.0,4.0,0.0,60.0,Dahili Ekran Kartı,15.6,9.8999
+lenovo,Free Dos,Intel Core i5,10.0,1920 x 1080,256.0,16.0,,,Intel HD Graphics,15.6,23.499
+dell,Windows,Intel Core i7,11.0,1920 x 1080,512.0,32.0,0.0,60.0,Dahili Ekran Kartı,15.6,24.8777
+asus,Windows,Intel Core i7,13.0,1920 x 1200,512.0,16.0,0.0,165.0,Nvidia GeForce RTX 4050,16.0,49.203
+msi,Free Dos,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,144.0,Nvidia GeForce RTX 4060,15.6,45.999
+lenovo,Free Dos,Intel Celeron,4.0,1366 x 768,0.0,4.0,0.0,60.0,Dahili Ekran Kartı,15.6,7.999
+lenovo,Windows,Intel Core i5,13.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel XE Graphics,15.6,17.349
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,256.0,8.0,0.0,60.0,Paylaşımlı,15.6,15.249
+hp,Windows,AMD Ryzen 5,5.0,1920 x 1080,1.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,13.9691
+lenovo,Free Dos,Intel Core i7,11.0,1920 x 1080,1.0,16.0,0.0,165.0,Nvidia GeForce RTX 3050 Ti,15.6,38.5
+asus,Windows,Intel Celeron,13.0,1920 x 1080,128.0,16.0,0.0,60.0,Intel UHD Graphics,14.0,10.799
+asus,Windows,Intel Celeron,13.0,1920 x 1080,256.0,16.0,0.0,60.0,Intel UHD Graphics,14.0,10.799
+hp,Windows,AMD Ryzen 7,5.0,1920 x 1080,256.0,16.0,0.0,60.0,AMD Radeon Vega 8,15.6,13.499
+lenovo,Free Dos,AMD Ryzen 7,7.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,13.399
+hp,Free Dos,AMD Ryzen 5,7.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,11.2
+asus,Free Dos,Intel Core i7,13.0,1920 x 1200,1.0,16.0,0.0,165.0,Nvidia GeForce RTX 4060,16.0,52.611
+lenovo,Free Dos,Intel Celeron,11.0,1366 x 768,1.0,4.0,128.0,60.0,Intel UHD Graphics 600,15.6,9.8741
+asus,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,16.0,0.0,60.0,Nvidia GeForce MX330,14.0,16.999
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,512.0,16.0,0.0,60.0,Intel Iris Graphics,15.6,17.749
+everest,Free Dos,Intel Core i5,11.0,1920 x 1080,1.0,8.0,0.0,60.0,Intel Iris Graphics,15.6,11.2351
+dell,Free Dos,Intel Core i3,11.0,1366 x 768,512.0,16.0,0.0,60.0,Intel UHD Graphics,14.0,9.8521
+asus,Windows,Intel Celeron,13.0,1920 x 1080,256.0,4.0,0.0,60.0,Intel UHD Graphics,14.0,9.299
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,8.0,0.0,60.0,Intel Iris Graphics,14.0,25.9834
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,512.0,24.0,0.0,60.0,Intel Iris Graphics,14.0,26.2559
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,16.0,512.0,60.0,Intel Iris Graphics,14.0,27.4221
+lenovo,Free Dos,Intel Core i5,12.0,1920 x 1080,1.0,24.0,0.0,60.0,Intel Iris Graphics,14.0,27.3594
+lenovo,Windows,AMD Ryzen 7,12.0,1920 x 1080,512.0,8.0,0.0,60.0,AMD Radeon Graphics,15.6,12.999
+lenovo,Free Dos,AMD Ryzen 7,5.0,1920 x 1080,256.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,13.099
+lenovo,Windows,AMD Ryzen 7,5.0,1920 x 1080,512.0,16.0,0.0,60.0,AMD Radeon Graphics,15.6,17.004
+lenovo,Windows,AMD Ryzen 7,5.0,1920 x 1080,2.0,24.0,0.0,60.0,AMD Radeon Graphics,15.6,21.279
+lenovo,Windows,AMD Ryzen 7,5.0,1920 x 1080,2.0,24.0,0.0,60.0,AMD Radeon Graphics,15.6,20.743
+monster,,,,,,,,,,,22.999
+lenovo,Free Dos,Intel Core i7,12.0,1920 x 1080,512.0,16.0,0.0,240.0,Intel Iris Graphics,15.6,21.999
+asus,Free Dos,Intel Core i9,13.0,1920 x 1200,2.0,32.0,0.0,120.0,Nvidia GeForce RTX 4050,16.0,52.099
+asus,Windows,Intel Core i7,12.0,1920 x 1080,1.0,16.0,0.0,60.0,Intel UHD Graphics,15.6,25.0228
+lenovo,Free Dos,Intel Core i5,11.0,1920 x 1080,256.0,8.0,1.0,60.0,Nvidia GeForce MX350,15.6,16.1536
+lenovo,Windows,Intel Core i5,11.0,1920 x 1080,1.0,20.0,0.0,60.0,Intel Iris Graphics,15.6,16.099
